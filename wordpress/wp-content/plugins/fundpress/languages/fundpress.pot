@@ -1,0 +1,3754 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-24 16:41+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: tags/1.2/inc/class-dn-ajax.php:56 tags/1.4/inc/class-dn-ajax.php:56
+#: tags/1.5/inc/class-dn-ajax.php:56 trunk/inc/class-dn-ajax.php:56
+msgid "Campaign is not exists in our system."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-ajax.php:91 tags/1.4/inc/class-dn-ajax.php:91
+#: tags/1.5/inc/class-dn-ajax.php:91 trunk/inc/class-dn-ajax.php:91
+msgid "Could not do action."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-ajax.php:132 tags/1.4/inc/class-dn-ajax.php:132
+#: tags/1.5/inc/class-dn-ajax.php:132 trunk/inc/class-dn-ajax.php:132
+msgid "Could not delete compensate. Please try again."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-ajax.php:142 tags/1.4/inc/class-dn-ajax.php:142
+#: tags/1.5/inc/class-dn-ajax.php:142 trunk/inc/class-dn-ajax.php:142
+msgid "You must login"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-ajax.php:170 tags/1.4/inc/class-dn-ajax.php:170
+#: tags/1.5/inc/class-dn-ajax.php:170 trunk/inc/class-dn-ajax.php:170
+msgid "Could not change status of Donate. Please try again."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-cart.php:88 tags/1.4/inc/class-dn-cart.php:88
+#: tags/1.5/inc/class-dn-cart.php:88 trunk/inc/class-dn-cart.php:88
+msgid "Class process product is not exists"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-cart.php:204 tags/1.4/inc/class-dn-cart.php:204
+#: tags/1.5/inc/class-dn-cart.php:204 trunk/inc/class-dn-cart.php:204
+msgid "cart item is not exists"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-checkout.php:34 tags/1.4/inc/class-dn-checkout.php:34
+#: tags/1.5/inc/class-dn-checkout.php:34 trunk/inc/class-dn-checkout.php:34
+msgid "We were unable to process your order, please try again."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-checkout.php:51 tags/1.4/inc/class-dn-checkout.php:51
+#: tags/1.5/inc/class-dn-checkout.php:51 trunk/inc/class-dn-checkout.php:51
+msgid "Campaign is invalid."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-checkout.php:67 tags/1.2/inc/class-dn-checkout.php:99
+#: tags/1.4/inc/class-dn-checkout.php:67 tags/1.4/inc/class-dn-checkout.php:99
+#: tags/1.5/inc/class-dn-checkout.php:67 tags/1.5/inc/class-dn-checkout.php:99
+#: trunk/inc/class-dn-checkout.php:67 trunk/inc/class-dn-checkout.php:99
+msgid "Please enter donation amount."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-checkout.php:70 tags/1.4/inc/class-dn-checkout.php:70
+#: tags/1.5/inc/class-dn-checkout.php:70 trunk/inc/class-dn-checkout.php:70
+msgid "Custom donate amount overcome campaign goal."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-checkout.php:80 tags/1.4/inc/class-dn-checkout.php:80
+#: tags/1.5/inc/class-dn-checkout.php:80 trunk/inc/class-dn-checkout.php:80
+msgid "This Campaign currently is not allow donate."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-checkout.php:86 tags/1.4/inc/class-dn-checkout.php:86
+#: tags/1.5/inc/class-dn-checkout.php:86 trunk/inc/class-dn-checkout.php:86
+msgid "Something went wrong, could not add to cart item. Please try again."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-checkout.php:104
+#: tags/1.4/inc/class-dn-checkout.php:104
+#: tags/1.5/inc/class-dn-checkout.php:104 trunk/inc/class-dn-checkout.php:104
+msgid "<strong>First Name</strong> is a required field."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-checkout.php:108
+#: tags/1.4/inc/class-dn-checkout.php:108
+#: tags/1.5/inc/class-dn-checkout.php:108 trunk/inc/class-dn-checkout.php:108
+msgid "<strong>Last Name</strong> is a required field."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-checkout.php:112
+#: tags/1.4/inc/class-dn-checkout.php:112
+#: tags/1.5/inc/class-dn-checkout.php:112 trunk/inc/class-dn-checkout.php:112
+msgid "<strong>Email</strong> is invalid."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-checkout.php:116
+#: tags/1.4/inc/class-dn-checkout.php:116
+#: tags/1.5/inc/class-dn-checkout.php:116 trunk/inc/class-dn-checkout.php:116
+msgid "<strong>Phone Number</strong> is a required field."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-checkout.php:123
+#: tags/1.4/inc/class-dn-checkout.php:123
+#: tags/1.5/inc/class-dn-checkout.php:123 trunk/inc/class-dn-checkout.php:123
+msgid "<strong>Terms and Contidions</strong> is a required field."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-checkout.php:129
+#: tags/1.4/inc/class-dn-checkout.php:129
+#: tags/1.5/inc/class-dn-checkout.php:129 trunk/inc/class-dn-checkout.php:129
+msgid "<strong>Address</strong> is a required field."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-checkout.php:140
+#: tags/1.4/inc/class-dn-checkout.php:140
+#: tags/1.5/inc/class-dn-checkout.php:140 trunk/inc/class-dn-checkout.php:140
+msgid "<strong>Payment method</strong> is invalid. Please try again."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-checkout.php:147
+#: tags/1.4/inc/class-dn-checkout.php:147
+#: tags/1.5/inc/class-dn-checkout.php:147 trunk/inc/class-dn-checkout.php:147
+msgid "No First Name"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-checkout.php:148
+#: tags/1.4/inc/class-dn-checkout.php:148
+#: tags/1.5/inc/class-dn-checkout.php:148 trunk/inc/class-dn-checkout.php:148
+msgid "No Last Name"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:57
+#: tags/1.2/inc/dn-core-functions.php:1312
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:28
+#: tags/1.2/inc/widgets/class-dn-widget-button.php:17
+#: tags/1.2/templates/checkout/checkout.php:40
+#: tags/1.2/templates/shortcodes/donate-form.php:44
+#: tags/1.2/templates/shortcodes/donate-form.php:126
+#: tags/1.2/templates/shortcodes/donate-form.php:141
+#: tags/1.2/templates/shortcodes/donate-form.php:160
+#: tags/1.4/inc/class-dn-custom-post-type.php:57
+#: tags/1.4/inc/dn-core-functions.php:1312
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:28
+#: tags/1.4/inc/widgets/class-dn-widget-button.php:17
+#: tags/1.4/templates/checkout/checkout.php:40
+#: tags/1.4/templates/shortcodes/donate-form.php:44
+#: tags/1.4/templates/shortcodes/donate-form.php:126
+#: tags/1.4/templates/shortcodes/donate-form.php:141
+#: tags/1.4/templates/shortcodes/donate-form.php:160
+#: tags/1.5/inc/class-dn-custom-post-type.php:57
+#: tags/1.5/inc/dn-core-functions.php:1312
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:28
+#: tags/1.5/inc/widgets/class-dn-widget-button.php:17
+#: tags/1.5/templates/checkout/checkout.php:40
+#: tags/1.5/templates/shortcodes/donate-form.php:44
+#: tags/1.5/templates/shortcodes/donate-form.php:126
+#: tags/1.5/templates/shortcodes/donate-form.php:141
+#: tags/1.5/templates/shortcodes/donate-form.php:160
+#: trunk/inc/class-dn-custom-post-type.php:57 trunk/inc/class-dn-gdpr.php:107
+#: trunk/inc/dn-core-functions.php:1312
+#: trunk/inc/settings/class-dn-setting-donate.php:28
+#: trunk/inc/widgets/class-dn-widget-button.php:17
+#: trunk/templates/checkout/checkout.php:40
+#: trunk/templates/shortcodes/donate-form.php:44
+#: trunk/templates/shortcodes/donate-form.php:126
+#: trunk/templates/shortcodes/donate-form.php:141
+#: trunk/templates/shortcodes/donate-form.php:160
+msgid "Donate"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:58
+#: tags/1.2/inc/admin/views/metaboxes/donate-action.php:34
+#: tags/1.4/inc/class-dn-custom-post-type.php:58
+#: tags/1.4/inc/admin/views/metaboxes/donate-action.php:34
+#: tags/1.5/inc/class-dn-custom-post-type.php:58
+#: tags/1.5/inc/admin/views/metaboxes/donate-action.php:34
+#: trunk/inc/class-dn-custom-post-type.php:58
+#: trunk/inc/admin/views/metaboxes/donate-action.php:34
+msgid "User"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:59
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-campaign.php:81
+#: tags/1.4/inc/class-dn-custom-post-type.php:59
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-campaign.php:84
+#: tags/1.5/inc/class-dn-custom-post-type.php:59
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-campaign.php:84
+#: trunk/inc/class-dn-custom-post-type.php:59 trunk/inc/class-dn-gdpr.php:96
+#: trunk/inc/admin/metaboxes/class-dn-metabox-campaign.php:84
+msgid "Type"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:60
+#: tags/1.2/inc/class-dn-custom-post-type.php:567
+#: tags/1.4/inc/class-dn-custom-post-type.php:60
+#: tags/1.4/inc/class-dn-custom-post-type.php:567
+#: tags/1.5/inc/class-dn-custom-post-type.php:60
+#: tags/1.5/inc/class-dn-custom-post-type.php:567
+#: trunk/inc/class-dn-custom-post-type.php:60
+#: trunk/inc/class-dn-custom-post-type.php:567
+msgid "Date"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:61
+#: tags/1.2/inc/admin/views/metaboxes/donate.php:112
+#: tags/1.2/templates/cart/cart_total.php:10
+#: tags/1.2/templates/checkout/cart_total.php:10
+#: tags/1.4/inc/class-dn-custom-post-type.php:61
+#: tags/1.4/inc/admin/views/metaboxes/donate.php:112
+#: tags/1.4/templates/cart/cart_total.php:10
+#: tags/1.4/templates/checkout/cart_total.php:10
+#: tags/1.5/inc/class-dn-custom-post-type.php:61
+#: tags/1.5/inc/admin/views/metaboxes/donate.php:112
+#: tags/1.5/templates/cart/cart_total.php:10
+#: tags/1.5/templates/checkout/cart_total.php:10
+#: trunk/inc/class-dn-custom-post-type.php:61 trunk/inc/class-dn-gdpr.php:92
+#: trunk/inc/admin/views/metaboxes/donate.php:112
+#: trunk/templates/cart/cart_total.php:10
+#: trunk/templates/checkout/cart_total.php:10
+msgid "Total"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:62
+#: tags/1.4/inc/class-dn-custom-post-type.php:62
+#: tags/1.5/inc/class-dn-custom-post-type.php:62
+#: trunk/inc/class-dn-custom-post-type.php:62
+msgid "Method"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:63
+#: tags/1.4/inc/class-dn-custom-post-type.php:63
+#: tags/1.5/inc/class-dn-custom-post-type.php:63
+#: trunk/inc/class-dn-custom-post-type.php:63 trunk/inc/class-dn-gdpr.php:100
+msgid "Status"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:77
+#: tags/1.4/inc/class-dn-custom-post-type.php:77
+#: tags/1.5/inc/class-dn-custom-post-type.php:77
+#: trunk/inc/class-dn-custom-post-type.php:77
+#, php-format
+msgid "%s <small>by</small> %s"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:90
+#: tags/1.2/inc/admin/views/metaboxes/donate-action.php:37
+#: tags/1.4/inc/class-dn-custom-post-type.php:90
+#: tags/1.4/inc/admin/views/metaboxes/donate-action.php:37
+#: tags/1.5/inc/class-dn-custom-post-type.php:90
+#: tags/1.5/inc/admin/views/metaboxes/donate-action.php:37
+#: trunk/inc/class-dn-custom-post-type.php:90
+#: trunk/inc/admin/views/metaboxes/donate-action.php:37
+msgid "Guest"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:95
+#: tags/1.4/inc/class-dn-custom-post-type.php:95
+#: tags/1.5/inc/class-dn-custom-post-type.php:95
+#: trunk/inc/class-dn-custom-post-type.php:95
+msgid "Donate For System"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:97
+#: tags/1.4/inc/class-dn-custom-post-type.php:97
+#: tags/1.5/inc/class-dn-custom-post-type.php:97
+#: trunk/inc/class-dn-custom-post-type.php:97
+msgid "Donate For Campaign"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:232
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-campaign.php:110
+#: tags/1.4/inc/class-dn-custom-post-type.php:232
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-campaign.php:117
+#: tags/1.5/inc/class-dn-custom-post-type.php:232
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-campaign.php:117
+#: trunk/inc/class-dn-custom-post-type.php:232
+#: trunk/inc/admin/metaboxes/class-dn-metabox-campaign.php:117
+msgid "Start Date"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:233
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-campaign.php:114
+#: tags/1.4/inc/class-dn-custom-post-type.php:233
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-campaign.php:121
+#: tags/1.5/inc/class-dn-custom-post-type.php:233
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-campaign.php:121
+#: trunk/inc/class-dn-custom-post-type.php:233
+#: trunk/inc/admin/metaboxes/class-dn-metabox-campaign.php:121
+msgid "End Date"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:234
+#: tags/1.4/inc/class-dn-custom-post-type.php:234
+#: tags/1.5/inc/class-dn-custom-post-type.php:234
+#: trunk/inc/class-dn-custom-post-type.php:234
+msgid "Founded"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:235
+#: tags/1.4/inc/class-dn-custom-post-type.php:235
+#: tags/1.5/inc/class-dn-custom-post-type.php:235
+#: trunk/inc/class-dn-custom-post-type.php:235
+msgid "Created At"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:268
+#: tags/1.4/inc/class-dn-custom-post-type.php:268
+#: tags/1.5/inc/class-dn-custom-post-type.php:268
+#: trunk/inc/class-dn-custom-post-type.php:268
+msgctxt "post type general name"
+msgid "Campaigns"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:269
+#: tags/1.4/inc/class-dn-custom-post-type.php:269
+#: tags/1.5/inc/class-dn-custom-post-type.php:269
+#: trunk/inc/class-dn-custom-post-type.php:269
+msgctxt "post type singular name"
+msgid "Campaign"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:270
+#: tags/1.4/inc/class-dn-custom-post-type.php:270
+#: tags/1.5/inc/class-dn-custom-post-type.php:270
+#: trunk/inc/class-dn-custom-post-type.php:270
+msgctxt "admin menu"
+msgid "Campaigns"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:271
+#: tags/1.4/inc/class-dn-custom-post-type.php:271
+#: tags/1.5/inc/class-dn-custom-post-type.php:271
+#: trunk/inc/class-dn-custom-post-type.php:271
+msgctxt "add new on admin bar"
+msgid "Campaign"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:272
+#: tags/1.4/inc/class-dn-custom-post-type.php:272
+#: tags/1.5/inc/class-dn-custom-post-type.php:272
+#: trunk/inc/class-dn-custom-post-type.php:272
+msgctxt "add new on admin bar"
+msgid "Add Campaign"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:273
+#: tags/1.4/inc/class-dn-custom-post-type.php:273
+#: tags/1.5/inc/class-dn-custom-post-type.php:273
+#: trunk/inc/class-dn-custom-post-type.php:273
+msgid "Add New Campaign"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:274
+#: tags/1.4/inc/class-dn-custom-post-type.php:274
+#: tags/1.5/inc/class-dn-custom-post-type.php:274
+#: trunk/inc/class-dn-custom-post-type.php:274
+msgid "New Campaign"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:275
+#: tags/1.4/inc/class-dn-custom-post-type.php:275
+#: tags/1.5/inc/class-dn-custom-post-type.php:275
+#: trunk/inc/class-dn-custom-post-type.php:275
+msgid "Edit Campaign"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:276
+#: tags/1.4/inc/class-dn-custom-post-type.php:276
+#: tags/1.5/inc/class-dn-custom-post-type.php:276
+#: trunk/inc/class-dn-custom-post-type.php:276
+msgid "View Campaign"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:277
+#: tags/1.2/inc/class-dn-custom-post-type.php:286
+#: tags/1.4/inc/class-dn-custom-post-type.php:277
+#: tags/1.4/inc/class-dn-custom-post-type.php:286
+#: tags/1.5/inc/class-dn-custom-post-type.php:277
+#: tags/1.5/inc/class-dn-custom-post-type.php:286
+#: trunk/inc/class-dn-custom-post-type.php:277
+#: trunk/inc/class-dn-custom-post-type.php:286
+msgid "Campaigns"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:278
+#: tags/1.2/inc/class-dn-custom-post-type.php:438
+#: tags/1.4/inc/class-dn-custom-post-type.php:278
+#: tags/1.4/inc/class-dn-custom-post-type.php:438
+#: tags/1.5/inc/class-dn-custom-post-type.php:278
+#: tags/1.5/inc/class-dn-custom-post-type.php:438
+#: trunk/inc/class-dn-custom-post-type.php:278
+#: trunk/inc/class-dn-custom-post-type.php:438
+msgid "Search Campaigns"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:279
+#: tags/1.4/inc/class-dn-custom-post-type.php:279
+#: tags/1.5/inc/class-dn-custom-post-type.php:279
+#: trunk/inc/class-dn-custom-post-type.php:279
+msgid "Parent Campaigns:"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:280
+#: tags/1.4/inc/class-dn-custom-post-type.php:280
+#: tags/1.5/inc/class-dn-custom-post-type.php:280
+#: trunk/inc/class-dn-custom-post-type.php:280
+msgid "No campaign found."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:281
+#: tags/1.4/inc/class-dn-custom-post-type.php:281
+#: tags/1.5/inc/class-dn-custom-post-type.php:281
+#: trunk/inc/class-dn-custom-post-type.php:281
+msgid "No campaign found in Trash."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:308
+#: tags/1.4/inc/class-dn-custom-post-type.php:308
+#: tags/1.5/inc/class-dn-custom-post-type.php:308
+#: trunk/inc/class-dn-custom-post-type.php:308
+msgctxt "post type general name"
+msgid "Donates"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:309
+#: tags/1.4/inc/class-dn-custom-post-type.php:309
+#: tags/1.5/inc/class-dn-custom-post-type.php:309
+#: trunk/inc/class-dn-custom-post-type.php:309
+msgctxt "post type singular name"
+msgid "Donate"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:310
+#: tags/1.4/inc/class-dn-custom-post-type.php:310
+#: tags/1.5/inc/class-dn-custom-post-type.php:310
+#: trunk/inc/class-dn-custom-post-type.php:310
+msgctxt "add new on admin bar"
+msgid "Donates"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:311
+#: tags/1.4/inc/class-dn-custom-post-type.php:311
+#: tags/1.5/inc/class-dn-custom-post-type.php:311
+#: trunk/inc/class-dn-custom-post-type.php:311
+msgctxt "admin menu"
+msgid "Donate"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:312
+#: tags/1.4/inc/class-dn-custom-post-type.php:312
+#: tags/1.5/inc/class-dn-custom-post-type.php:312
+#: trunk/inc/class-dn-custom-post-type.php:312
+msgctxt "dn_donate"
+msgid "Add Donate"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:313
+#: tags/1.4/inc/class-dn-custom-post-type.php:313
+#: tags/1.5/inc/class-dn-custom-post-type.php:313
+#: trunk/inc/class-dn-custom-post-type.php:313
+msgid "Add New Donate"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:314
+#: tags/1.4/inc/class-dn-custom-post-type.php:314
+#: tags/1.5/inc/class-dn-custom-post-type.php:314
+#: trunk/inc/class-dn-custom-post-type.php:314
+msgid "New Donate"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:315
+#: tags/1.4/inc/class-dn-custom-post-type.php:315
+#: tags/1.5/inc/class-dn-custom-post-type.php:315
+#: trunk/inc/class-dn-custom-post-type.php:315
+msgid "Edit Donate"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:316
+#: tags/1.4/inc/class-dn-custom-post-type.php:316
+#: tags/1.5/inc/class-dn-custom-post-type.php:316
+#: trunk/inc/class-dn-custom-post-type.php:316
+msgid "View Donate"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:317
+#: tags/1.2/inc/class-dn-custom-post-type.php:326
+#: tags/1.4/inc/class-dn-custom-post-type.php:317
+#: tags/1.4/inc/class-dn-custom-post-type.php:326
+#: tags/1.5/inc/class-dn-custom-post-type.php:317
+#: tags/1.5/inc/class-dn-custom-post-type.php:326
+#: trunk/inc/class-dn-custom-post-type.php:317
+#: trunk/inc/class-dn-custom-post-type.php:326
+msgid "Donates"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:318
+#: tags/1.4/inc/class-dn-custom-post-type.php:318
+#: tags/1.5/inc/class-dn-custom-post-type.php:318
+#: trunk/inc/class-dn-custom-post-type.php:318
+msgid "Search Donates"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:319
+#: tags/1.4/inc/class-dn-custom-post-type.php:319
+#: tags/1.5/inc/class-dn-custom-post-type.php:319
+#: trunk/inc/class-dn-custom-post-type.php:319
+msgid "Parent Donates:"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:320
+#: tags/1.4/inc/class-dn-custom-post-type.php:320
+#: tags/1.5/inc/class-dn-custom-post-type.php:320
+#: trunk/inc/class-dn-custom-post-type.php:320
+msgid "No donates found."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:321
+#: tags/1.4/inc/class-dn-custom-post-type.php:321
+#: tags/1.5/inc/class-dn-custom-post-type.php:321
+#: trunk/inc/class-dn-custom-post-type.php:321
+msgid "No donates found in Trash."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:332
+#: tags/1.4/inc/class-dn-custom-post-type.php:332
+#: tags/1.5/inc/class-dn-custom-post-type.php:332
+#: trunk/inc/class-dn-custom-post-type.php:332
+msgctxt "URL slug"
+msgid "donates"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:347
+#: tags/1.4/inc/class-dn-custom-post-type.php:347
+#: tags/1.5/inc/class-dn-custom-post-type.php:347
+#: trunk/inc/class-dn-custom-post-type.php:347
+msgctxt "post type general name"
+msgid "Donate Item"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:365
+#: tags/1.4/inc/class-dn-custom-post-type.php:365
+#: tags/1.5/inc/class-dn-custom-post-type.php:365
+#: trunk/inc/class-dn-custom-post-type.php:365
+msgid "Donate Item"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:371
+#: tags/1.4/inc/class-dn-custom-post-type.php:371
+#: tags/1.5/inc/class-dn-custom-post-type.php:371
+#: trunk/inc/class-dn-custom-post-type.php:371
+msgctxt "URL slug"
+msgid "donate-item"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:391
+#: tags/1.4/inc/class-dn-custom-post-type.php:391
+#: tags/1.5/inc/class-dn-custom-post-type.php:391
+#: trunk/inc/class-dn-custom-post-type.php:391
+msgctxt "post type general name"
+msgid "Donors"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:392
+#: tags/1.4/inc/class-dn-custom-post-type.php:392
+#: tags/1.5/inc/class-dn-custom-post-type.php:392
+#: trunk/inc/class-dn-custom-post-type.php:392
+msgctxt "post type singular name"
+msgid "Donor"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:393
+#: tags/1.4/inc/class-dn-custom-post-type.php:393
+#: tags/1.5/inc/class-dn-custom-post-type.php:393
+#: trunk/inc/class-dn-custom-post-type.php:393
+msgctxt "admin menu"
+msgid "Donors"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:394
+#: tags/1.4/inc/class-dn-custom-post-type.php:394
+#: tags/1.5/inc/class-dn-custom-post-type.php:394
+#: trunk/inc/class-dn-custom-post-type.php:394
+msgctxt "add new on admin bar"
+msgid "Donor"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:395
+#: tags/1.4/inc/class-dn-custom-post-type.php:395
+#: tags/1.5/inc/class-dn-custom-post-type.php:395
+#: trunk/inc/class-dn-custom-post-type.php:395
+msgctxt "dn_donor"
+msgid "Add Donor"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:396
+#: tags/1.4/inc/class-dn-custom-post-type.php:396
+#: tags/1.5/inc/class-dn-custom-post-type.php:396
+#: trunk/inc/class-dn-custom-post-type.php:396
+msgid "Add New Donor"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:397
+#: tags/1.4/inc/class-dn-custom-post-type.php:397
+#: tags/1.5/inc/class-dn-custom-post-type.php:397
+#: trunk/inc/class-dn-custom-post-type.php:397
+msgid "New Donor"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:398
+#: tags/1.4/inc/class-dn-custom-post-type.php:398
+#: tags/1.5/inc/class-dn-custom-post-type.php:398
+#: trunk/inc/class-dn-custom-post-type.php:398
+msgid "Edit Donor"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:399
+#: tags/1.4/inc/class-dn-custom-post-type.php:399
+#: tags/1.5/inc/class-dn-custom-post-type.php:399
+#: trunk/inc/class-dn-custom-post-type.php:399
+msgid "View Donor"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:400
+#: tags/1.2/inc/class-dn-custom-post-type.php:409
+#: tags/1.4/inc/class-dn-custom-post-type.php:400
+#: tags/1.4/inc/class-dn-custom-post-type.php:409
+#: tags/1.5/inc/class-dn-custom-post-type.php:400
+#: tags/1.5/inc/class-dn-custom-post-type.php:409
+#: trunk/inc/class-dn-custom-post-type.php:400
+#: trunk/inc/class-dn-custom-post-type.php:409
+msgid "Donors"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:401
+#: tags/1.4/inc/class-dn-custom-post-type.php:401
+#: tags/1.5/inc/class-dn-custom-post-type.php:401
+#: trunk/inc/class-dn-custom-post-type.php:401
+msgid "Search Donors"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:402
+#: tags/1.4/inc/class-dn-custom-post-type.php:402
+#: tags/1.5/inc/class-dn-custom-post-type.php:402
+#: trunk/inc/class-dn-custom-post-type.php:402
+msgid "Parent Donors:"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:403
+#: tags/1.4/inc/class-dn-custom-post-type.php:403
+#: tags/1.5/inc/class-dn-custom-post-type.php:403
+#: trunk/inc/class-dn-custom-post-type.php:403
+msgid "No donors found."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:404
+#: tags/1.4/inc/class-dn-custom-post-type.php:404
+#: tags/1.5/inc/class-dn-custom-post-type.php:404
+#: trunk/inc/class-dn-custom-post-type.php:404
+msgid "No donors found in Trash."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:415
+#: tags/1.4/inc/class-dn-custom-post-type.php:415
+#: tags/1.5/inc/class-dn-custom-post-type.php:415
+#: trunk/inc/class-dn-custom-post-type.php:415
+msgctxt "URL slug"
+msgid "donors"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:436
+#: tags/1.4/inc/class-dn-custom-post-type.php:436
+#: tags/1.5/inc/class-dn-custom-post-type.php:436
+#: trunk/inc/class-dn-custom-post-type.php:436
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:437
+#: tags/1.4/inc/class-dn-custom-post-type.php:437
+#: tags/1.5/inc/class-dn-custom-post-type.php:437
+#: trunk/inc/class-dn-custom-post-type.php:437
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:439
+#: tags/1.4/inc/class-dn-custom-post-type.php:439
+#: tags/1.5/inc/class-dn-custom-post-type.php:439
+#: trunk/inc/class-dn-custom-post-type.php:439
+msgid "All Campaigns"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:440
+#: tags/1.4/inc/class-dn-custom-post-type.php:440
+#: tags/1.5/inc/class-dn-custom-post-type.php:440
+#: trunk/inc/class-dn-custom-post-type.php:440
+msgid "Parent Category"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:441
+#: tags/1.4/inc/class-dn-custom-post-type.php:441
+#: tags/1.5/inc/class-dn-custom-post-type.php:441
+#: trunk/inc/class-dn-custom-post-type.php:441
+msgid "Parent Category:"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:442
+#: tags/1.4/inc/class-dn-custom-post-type.php:442
+#: tags/1.5/inc/class-dn-custom-post-type.php:442
+#: trunk/inc/class-dn-custom-post-type.php:442
+msgid "Edit Category"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:443
+#: tags/1.4/inc/class-dn-custom-post-type.php:443
+#: tags/1.5/inc/class-dn-custom-post-type.php:443
+#: trunk/inc/class-dn-custom-post-type.php:443
+msgid "Update Category"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:444
+#: tags/1.4/inc/class-dn-custom-post-type.php:444
+#: tags/1.5/inc/class-dn-custom-post-type.php:444
+#: trunk/inc/class-dn-custom-post-type.php:444
+msgid "Add New Category"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:445
+#: tags/1.4/inc/class-dn-custom-post-type.php:445
+#: tags/1.5/inc/class-dn-custom-post-type.php:445
+#: trunk/inc/class-dn-custom-post-type.php:445
+msgid "New Category"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:446
+#: tags/1.4/inc/class-dn-custom-post-type.php:446
+#: tags/1.5/inc/class-dn-custom-post-type.php:446
+#: trunk/inc/class-dn-custom-post-type.php:446
+msgid "Categories"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:455
+#: tags/1.4/inc/class-dn-custom-post-type.php:455
+#: tags/1.5/inc/class-dn-custom-post-type.php:455
+#: trunk/inc/class-dn-custom-post-type.php:455
+msgctxt "URL slug"
+msgid "campaign-cat"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:463
+#: tags/1.4/inc/class-dn-custom-post-type.php:463
+#: tags/1.5/inc/class-dn-custom-post-type.php:463
+#: trunk/inc/class-dn-custom-post-type.php:463
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:464
+#: tags/1.4/inc/class-dn-custom-post-type.php:464
+#: tags/1.5/inc/class-dn-custom-post-type.php:464
+#: trunk/inc/class-dn-custom-post-type.php:464
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:465
+#: tags/1.4/inc/class-dn-custom-post-type.php:465
+#: tags/1.5/inc/class-dn-custom-post-type.php:465
+#: trunk/inc/class-dn-custom-post-type.php:465
+msgid "Search Tag"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:466
+#: tags/1.4/inc/class-dn-custom-post-type.php:466
+#: tags/1.5/inc/class-dn-custom-post-type.php:466
+#: trunk/inc/class-dn-custom-post-type.php:466
+msgid "All Tags"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:467
+#: tags/1.4/inc/class-dn-custom-post-type.php:467
+#: tags/1.5/inc/class-dn-custom-post-type.php:467
+#: trunk/inc/class-dn-custom-post-type.php:467
+msgid "Parent Tag"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:468
+#: tags/1.4/inc/class-dn-custom-post-type.php:468
+#: tags/1.5/inc/class-dn-custom-post-type.php:468
+#: trunk/inc/class-dn-custom-post-type.php:468
+msgid "Parent Tag:"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:469
+#: tags/1.4/inc/class-dn-custom-post-type.php:469
+#: tags/1.5/inc/class-dn-custom-post-type.php:469
+#: trunk/inc/class-dn-custom-post-type.php:469
+msgid "Edit Tag"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:470
+#: tags/1.4/inc/class-dn-custom-post-type.php:470
+#: tags/1.5/inc/class-dn-custom-post-type.php:470
+#: trunk/inc/class-dn-custom-post-type.php:470
+msgid "Update Tag"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:471
+#: tags/1.4/inc/class-dn-custom-post-type.php:471
+#: tags/1.5/inc/class-dn-custom-post-type.php:471
+#: trunk/inc/class-dn-custom-post-type.php:471
+msgid "Add New Tag"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:472
+#: tags/1.4/inc/class-dn-custom-post-type.php:472
+#: tags/1.5/inc/class-dn-custom-post-type.php:472
+#: trunk/inc/class-dn-custom-post-type.php:472
+msgid "New Tag"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:473
+#: tags/1.4/inc/class-dn-custom-post-type.php:473
+#: tags/1.5/inc/class-dn-custom-post-type.php:473
+#: trunk/inc/class-dn-custom-post-type.php:473
+msgid "Tags"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:482
+#: tags/1.4/inc/class-dn-custom-post-type.php:482
+#: tags/1.5/inc/class-dn-custom-post-type.php:482
+#: trunk/inc/class-dn-custom-post-type.php:482
+msgctxt "URL slug"
+msgid "campaign-tag"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:496
+#: tags/1.4/inc/class-dn-custom-post-type.php:496
+#: tags/1.5/inc/class-dn-custom-post-type.php:496
+#: trunk/inc/class-dn-custom-post-type.php:496
+msgctxt "Donate Status"
+msgid "Cancelled"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:501
+#: tags/1.4/inc/class-dn-custom-post-type.php:501
+#: tags/1.5/inc/class-dn-custom-post-type.php:501
+#: trunk/inc/class-dn-custom-post-type.php:501
+#, php-format
+msgid "Cancelled <span class=\"count\">(%s)</span>"
+msgid_plural "Cancelled <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:508
+#: tags/1.4/inc/class-dn-custom-post-type.php:508
+#: tags/1.5/inc/class-dn-custom-post-type.php:508
+#: trunk/inc/class-dn-custom-post-type.php:508
+msgctxt "Donate Status"
+msgid "Pending"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:513
+#: tags/1.4/inc/class-dn-custom-post-type.php:513
+#: tags/1.5/inc/class-dn-custom-post-type.php:513
+#: trunk/inc/class-dn-custom-post-type.php:513
+#, php-format
+msgid "Pending <span class=\"count\">(%s)</span>"
+msgid_plural "Pending <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:520
+#: tags/1.4/inc/class-dn-custom-post-type.php:520
+#: tags/1.5/inc/class-dn-custom-post-type.php:520
+#: trunk/inc/class-dn-custom-post-type.php:520
+msgctxt "Donate Status"
+msgid "Processing"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:525
+#: tags/1.4/inc/class-dn-custom-post-type.php:525
+#: tags/1.5/inc/class-dn-custom-post-type.php:525
+#: trunk/inc/class-dn-custom-post-type.php:525
+#, php-format
+msgid "Processing <span class=\"count\">(%s)</span>"
+msgid_plural "Processing <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:532
+#: tags/1.4/inc/class-dn-custom-post-type.php:532
+#: tags/1.5/inc/class-dn-custom-post-type.php:532
+#: trunk/inc/class-dn-custom-post-type.php:532
+msgctxt "Donate Status"
+msgid "Completed"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:537
+#: tags/1.4/inc/class-dn-custom-post-type.php:537
+#: tags/1.5/inc/class-dn-custom-post-type.php:537
+#: trunk/inc/class-dn-custom-post-type.php:537
+#, php-format
+msgid "Completed <span class=\"count\">(%s)</span>"
+msgid_plural "Completed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:544
+#: tags/1.4/inc/class-dn-custom-post-type.php:544
+#: tags/1.5/inc/class-dn-custom-post-type.php:544
+#: trunk/inc/class-dn-custom-post-type.php:544
+msgctxt "Donate Status"
+msgid "Refunded"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:549
+#: tags/1.4/inc/class-dn-custom-post-type.php:549
+#: tags/1.5/inc/class-dn-custom-post-type.php:549
+#: trunk/inc/class-dn-custom-post-type.php:549
+#, php-format
+msgid "Refunded <span class=\"count\">(%s)</span>"
+msgid_plural "Refunded <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:563
+#: tags/1.4/inc/class-dn-custom-post-type.php:563
+#: tags/1.5/inc/class-dn-custom-post-type.php:563
+#: trunk/inc/class-dn-custom-post-type.php:563
+msgid "Full Name"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:564
+#: tags/1.2/inc/class-dn-custom-post-type.php:629
+#: tags/1.2/inc/admin/views/metaboxes/donor.php:20
+#: tags/1.2/inc/settings/class-dn-setting-email.php:28
+#: tags/1.4/inc/class-dn-custom-post-type.php:564
+#: tags/1.4/inc/class-dn-custom-post-type.php:629
+#: tags/1.4/inc/admin/views/metaboxes/donor.php:20
+#: tags/1.4/inc/settings/class-dn-setting-email.php:28
+#: tags/1.5/inc/class-dn-custom-post-type.php:564
+#: tags/1.5/inc/class-dn-custom-post-type.php:629
+#: tags/1.5/inc/admin/views/metaboxes/donor.php:20
+#: tags/1.5/inc/settings/class-dn-setting-email.php:28
+#: trunk/inc/class-dn-custom-post-type.php:564
+#: trunk/inc/class-dn-custom-post-type.php:629
+#: trunk/inc/admin/views/metaboxes/donor.php:20
+#: trunk/inc/settings/class-dn-setting-email.php:28
+msgid "Email"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:565
+#: tags/1.2/inc/class-dn-custom-post-type.php:636
+#: tags/1.2/inc/admin/views/metaboxes/donor.php:21
+#: tags/1.4/inc/class-dn-custom-post-type.php:565
+#: tags/1.4/inc/class-dn-custom-post-type.php:636
+#: tags/1.4/inc/admin/views/metaboxes/donor.php:21
+#: tags/1.5/inc/class-dn-custom-post-type.php:565
+#: tags/1.5/inc/class-dn-custom-post-type.php:636
+#: tags/1.5/inc/admin/views/metaboxes/donor.php:21
+#: trunk/inc/class-dn-custom-post-type.php:565
+#: trunk/inc/class-dn-custom-post-type.php:636
+#: trunk/inc/admin/views/metaboxes/donor.php:21
+msgid "Address"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:566
+#: tags/1.2/inc/admin/views/metaboxes/donor.php:22
+#: tags/1.4/inc/class-dn-custom-post-type.php:566
+#: tags/1.4/inc/admin/views/metaboxes/donor.php:22
+#: tags/1.5/inc/class-dn-custom-post-type.php:566
+#: tags/1.5/inc/admin/views/metaboxes/donor.php:22
+#: trunk/inc/class-dn-custom-post-type.php:566
+#: trunk/inc/admin/views/metaboxes/donor.php:22
+msgid "Phone"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:601
+#: tags/1.4/inc/class-dn-custom-post-type.php:601
+#: tags/1.5/inc/class-dn-custom-post-type.php:601
+#: trunk/inc/class-dn-custom-post-type.php:601
+msgid "Donor Info"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:609
+#: tags/1.4/inc/class-dn-custom-post-type.php:609
+#: tags/1.5/inc/class-dn-custom-post-type.php:609
+#: trunk/inc/class-dn-custom-post-type.php:609
+#, php-format
+msgid "Donor ID #%s"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:615
+#: tags/1.4/inc/class-dn-custom-post-type.php:615
+#: tags/1.5/inc/class-dn-custom-post-type.php:615
+#: trunk/inc/class-dn-custom-post-type.php:615
+msgid "First Name"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:616
+#: tags/1.4/inc/class-dn-custom-post-type.php:616
+#: tags/1.5/inc/class-dn-custom-post-type.php:616
+#: trunk/inc/class-dn-custom-post-type.php:616
+msgid "Enter First Name (required)"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:622
+#: tags/1.4/inc/class-dn-custom-post-type.php:622
+#: tags/1.5/inc/class-dn-custom-post-type.php:622
+#: trunk/inc/class-dn-custom-post-type.php:622
+msgid "Last Name"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:623
+#: tags/1.4/inc/class-dn-custom-post-type.php:623
+#: tags/1.5/inc/class-dn-custom-post-type.php:623
+#: trunk/inc/class-dn-custom-post-type.php:623
+msgid "Enter Last Name (required)"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:630
+#: tags/1.4/inc/class-dn-custom-post-type.php:630
+#: tags/1.5/inc/class-dn-custom-post-type.php:630
+#: trunk/inc/class-dn-custom-post-type.php:630
+msgid "Enter Email (required)"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:637
+#: tags/1.4/inc/class-dn-custom-post-type.php:637
+#: tags/1.5/inc/class-dn-custom-post-type.php:637
+#: trunk/inc/class-dn-custom-post-type.php:637
+msgid "Enter Address (required)"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:643
+#: tags/1.4/inc/class-dn-custom-post-type.php:643
+#: tags/1.5/inc/class-dn-custom-post-type.php:643
+#: trunk/inc/class-dn-custom-post-type.php:643
+msgid "Phone Num."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-custom-post-type.php:644
+#: tags/1.4/inc/class-dn-custom-post-type.php:644
+#: tags/1.5/inc/class-dn-custom-post-type.php:644
+#: trunk/inc/class-dn-custom-post-type.php:644
+msgid "Enter Phone Number (required)"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-donate.php:44 tags/1.4/inc/class-dn-donate.php:44
+#: tags/1.5/inc/class-dn-donate.php:44 trunk/inc/class-dn-donate.php:44
+msgid "Could not created donor."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-donor.php:45 tags/1.4/inc/class-dn-donor.php:45
+#: tags/1.5/inc/class-dn-donor.php:45 trunk/inc/class-dn-donor.php:45
+msgid "Could not create new donor with empty email."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-donor.php:70 tags/1.4/inc/class-dn-donor.php:70
+#: tags/1.5/inc/class-dn-donor.php:70 trunk/inc/class-dn-donor.php:70
+msgid "Could not create new donor."
+msgstr ""
+
+#: tags/1.2/inc/class-dn-email.php:46 tags/1.4/inc/class-dn-email.php:49
+#: tags/1.5/inc/class-dn-email.php:49 trunk/inc/class-dn-email.php:49
+msgid "Donate completed"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-install.php:98 tags/1.4/inc/class-dn-install.php:101
+#: tags/1.5/inc/class-dn-install.php:101 trunk/inc/class-dn-install.php:101
+msgctxt "donate-cart"
+msgid "donate-cart"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-install.php:99 tags/1.4/inc/class-dn-install.php:102
+#: tags/1.5/inc/class-dn-install.php:102 trunk/inc/class-dn-install.php:102
+msgctxt "Donate Cart"
+msgid "Donate Cart"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-install.php:108 tags/1.4/inc/class-dn-install.php:111
+#: tags/1.5/inc/class-dn-install.php:111 trunk/inc/class-dn-install.php:111
+msgctxt "donate-checkout"
+msgid "donate-checkout"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-install.php:109 tags/1.4/inc/class-dn-install.php:112
+#: tags/1.5/inc/class-dn-install.php:112 trunk/inc/class-dn-install.php:112
+msgctxt "Donate Checkout"
+msgid "Donate Checkout"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-setting.php:56
+msgid "TP Donate Settings"
+msgstr ""
+
+#: tags/1.2/inc/class-dn-setting.php:56 tags/1.4/inc/class-dn-setting.php:63
+#: tags/1.5/inc/class-dn-setting.php:63 trunk/inc/class-dn-setting.php:63
+msgid "Settings"
+msgstr ""
+
+#: tags/1.2/inc/dn-core-functions.php:440
+#: tags/1.4/inc/dn-core-functions.php:440
+#: tags/1.5/inc/dn-core-functions.php:440 trunk/inc/dn-core-functions.php:440
+msgid "--- Select page ---"
+msgstr ""
+
+#: tags/1.2/inc/dn-core-functions.php:567
+#: tags/1.4/inc/dn-core-functions.php:567
+#: tags/1.5/inc/dn-core-functions.php:567 trunk/inc/dn-core-functions.php:567
+#, php-format
+msgid "no data for %s"
+msgstr ""
+
+#: tags/1.2/inc/dn-core-functions.php:757
+#: tags/1.4/inc/dn-core-functions.php:757
+#: tags/1.5/inc/dn-core-functions.php:757 trunk/inc/dn-core-functions.php:757
+msgid "Pending"
+msgstr ""
+
+#: tags/1.2/inc/dn-core-functions.php:758
+#: tags/1.2/inc/dn-core-functions.php:1286
+#: tags/1.2/inc/dn-core-functions.php:1313
+#: tags/1.4/inc/dn-core-functions.php:758
+#: tags/1.4/inc/dn-core-functions.php:1286
+#: tags/1.4/inc/dn-core-functions.php:1313
+#: tags/1.5/inc/dn-core-functions.php:758
+#: tags/1.5/inc/dn-core-functions.php:1286
+#: tags/1.5/inc/dn-core-functions.php:1313 trunk/inc/dn-core-functions.php:758
+#: trunk/inc/dn-core-functions.php:1286 trunk/inc/dn-core-functions.php:1313
+msgid "Processing"
+msgstr ""
+
+#: tags/1.2/inc/dn-core-functions.php:759
+#: tags/1.2/inc/dn-core-functions.php:1314
+#: tags/1.4/inc/dn-core-functions.php:759
+#: tags/1.4/inc/dn-core-functions.php:1314
+#: tags/1.5/inc/dn-core-functions.php:759
+#: tags/1.5/inc/dn-core-functions.php:1314 trunk/inc/dn-core-functions.php:759
+#: trunk/inc/dn-core-functions.php:1314
+msgid "Completed"
+msgstr ""
+
+#: tags/1.2/inc/dn-core-functions.php:1289
+#: tags/1.2/templates/shortcodes/campaign.php:34
+#: tags/1.4/inc/dn-core-functions.php:1289
+#: tags/1.4/templates/shortcodes/campaign.php:34
+#: tags/1.5/inc/dn-core-functions.php:1289
+#: tags/1.5/templates/shortcodes/campaign.php:34
+#: trunk/inc/dn-core-functions.php:1289
+#: trunk/templates/shortcodes/campaign.php:34
+msgid "Complete"
+msgstr ""
+
+#: tags/1.2/inc/dn-core-functions.php:1292
+#: tags/1.4/inc/dn-core-functions.php:1292
+#: tags/1.5/inc/dn-core-functions.php:1292
+#: trunk/inc/dn-core-functions.php:1292
+msgid "View"
+msgstr ""
+
+#: tags/1.2/inc/dn-core-functions.php:1304
+#: tags/1.4/inc/dn-core-functions.php:1304
+#: tags/1.5/inc/dn-core-functions.php:1304
+#: trunk/inc/dn-core-functions.php:1304
+msgid "Please enter donate amount."
+msgstr ""
+
+#: tags/1.2/inc/dn-core-functions.php:1305
+#: tags/1.4/inc/dn-core-functions.php:1305
+#: tags/1.5/inc/dn-core-functions.php:1305
+#: trunk/inc/dn-core-functions.php:1305
+msgid "Please enter valid email. Eg: example@example.com"
+msgstr ""
+
+#: tags/1.2/inc/dn-core-functions.php:1306
+#: tags/1.4/inc/dn-core-functions.php:1306
+#: tags/1.5/inc/dn-core-functions.php:1306
+#: trunk/inc/dn-core-functions.php:1306
+msgid "First name invalid, min length 3 and max length 15 character."
+msgstr ""
+
+#: tags/1.2/inc/dn-core-functions.php:1307
+#: tags/1.4/inc/dn-core-functions.php:1307
+#: tags/1.5/inc/dn-core-functions.php:1307
+#: trunk/inc/dn-core-functions.php:1307
+msgid "Last name invalid, min length 3 and max length 15 character."
+msgstr ""
+
+#: tags/1.2/inc/dn-core-functions.php:1308
+#: tags/1.4/inc/dn-core-functions.php:1308
+#: tags/1.5/inc/dn-core-functions.php:1308
+#: trunk/inc/dn-core-functions.php:1308
+msgid "Phone number invalid. Eg: 01365987521."
+msgstr ""
+
+#: tags/1.2/inc/dn-core-functions.php:1309
+#: tags/1.4/inc/dn-core-functions.php:1309
+#: tags/1.5/inc/dn-core-functions.php:1309
+#: trunk/inc/dn-core-functions.php:1309
+msgid "Please select payment method."
+msgstr ""
+
+#: tags/1.2/inc/dn-core-functions.php:1310
+#: tags/1.4/inc/dn-core-functions.php:1310
+#: tags/1.5/inc/dn-core-functions.php:1310
+#: trunk/inc/dn-core-functions.php:1310
+msgid "Please enter your address."
+msgstr ""
+
+#: tags/1.2/inc/dn-core-functions.php:1311
+#: tags/1.4/inc/dn-core-functions.php:1311
+#: tags/1.5/inc/dn-core-functions.php:1311
+#: trunk/inc/dn-core-functions.php:1311
+msgid "Processing..."
+msgstr ""
+
+#: tags/1.2/inc/abstracts/class-dn-abstract-payments.php:120
+#: tags/1.4/inc/abstracts/class-dn-abstract-payments.php:120
+#: tags/1.5/inc/abstracts/class-dn-abstract-payments.php:120
+#: trunk/inc/abstracts/class-dn-abstract-payments.php:120
+msgid "Payment completed. We will send you email when payment method verify."
+msgstr ""
+
+#: tags/1.2/inc/admin/class-dn-admin-menu.php:27
+#: tags/1.4/inc/admin/class-dn-admin-menu.php:27
+#: tags/1.5/inc/admin/class-dn-admin-menu.php:27
+#: trunk/inc/admin/class-dn-admin-menu.php:27
+msgid "FundPress"
+msgstr ""
+
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-campaign.php:28
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-campaign.php:29
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-campaign.php:29
+#: trunk/inc/admin/metaboxes/class-dn-metabox-campaign.php:29
+msgid "Campaign Settings"
+msgstr ""
+
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-campaign.php:47
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:43
+#: tags/1.2/inc/settings/class-dn-setting-general.php:28
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-campaign.php:48
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:43
+#: tags/1.4/inc/settings/class-dn-setting-general.php:28
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-campaign.php:48
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:43
+#: tags/1.5/inc/settings/class-dn-setting-general.php:28
+#: trunk/inc/admin/metaboxes/class-dn-metabox-campaign.php:48
+#: trunk/inc/settings/class-dn-setting-checkout.php:43
+#: trunk/inc/settings/class-dn-setting-general.php:28
+msgid "General"
+msgstr ""
+
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-campaign.php:50
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-campaign.php:51
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-campaign.php:51
+#: trunk/inc/admin/metaboxes/class-dn-metabox-campaign.php:51
+msgid "Compensate"
+msgstr ""
+
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-campaign.php:83
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-campaign.php:86
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-campaign.php:86
+#: trunk/inc/admin/metaboxes/class-dn-metabox-campaign.php:86
+msgid "Flexible"
+msgstr ""
+
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-campaign.php:84
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-campaign.php:87
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-campaign.php:87
+#: trunk/inc/admin/metaboxes/class-dn-metabox-campaign.php:87
+msgid "Fixed"
+msgstr ""
+
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-campaign.php:86
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-campaign.php:89
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-campaign.php:89
+#: trunk/inc/admin/metaboxes/class-dn-metabox-campaign.php:89
+msgid "Flexible allow charge although full founded or expired date."
+msgstr ""
+
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-campaign.php:89
+#: tags/1.2/inc/settings/class-dn-setting-general.php:70
+#: tags/1.4/inc/settings/class-dn-setting-general.php:70
+#: tags/1.5/inc/settings/class-dn-setting-general.php:70
+#: trunk/inc/settings/class-dn-setting-general.php:70
+msgid "Currency"
+msgstr ""
+
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-campaign.php:95
+msgid ""
+"Please make sure this option is keep not change. If it change Raised will be "
+"change."
+msgstr ""
+
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-campaign.php:100
+#: tags/1.2/templates/loop/goal_raised.php:13
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-campaign.php:107
+#: tags/1.4/templates/loop/goal_raised.php:13
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-campaign.php:107
+#: tags/1.5/templates/loop/goal_raised.php:13
+#: trunk/inc/admin/metaboxes/class-dn-metabox-campaign.php:107
+#: trunk/templates/loop/goal_raised.php:13
+msgid "Goal"
+msgstr ""
+
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-campaign.php:104
+#: tags/1.2/templates/loop/goal_raised.php:9
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-campaign.php:111
+#: tags/1.4/templates/loop/goal_raised.php:9
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-campaign.php:111
+#: tags/1.5/templates/loop/goal_raised.php:9
+#: trunk/inc/admin/metaboxes/class-dn-metabox-campaign.php:111
+#: trunk/templates/loop/goal_raised.php:9
+msgid "Raised"
+msgstr ""
+
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-campaign.php:125
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-campaign.php:157
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-campaign.php:132
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-campaign.php:165
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-campaign.php:132
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-campaign.php:165
+#: trunk/inc/admin/metaboxes/class-dn-metabox-campaign.php:132
+#: trunk/inc/admin/metaboxes/class-dn-metabox-campaign.php:165
+msgid "Marker"
+msgstr ""
+
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-campaign.php:129
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-campaign.php:161
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:488
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-campaign.php:136
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-campaign.php:169
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:488
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-campaign.php:136
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-campaign.php:169
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:488
+#: trunk/inc/admin/metaboxes/class-dn-metabox-campaign.php:136
+#: trunk/inc/admin/metaboxes/class-dn-metabox-campaign.php:169
+#: trunk/inc/vendors/cmb2/example-functions.php:488
+msgid "Description"
+msgstr ""
+
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-campaign.php:133
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-campaign.php:165
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:138
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_Types.php:257
+#: tags/1.2/inc/vendors/cmb2/includes/types/CMB2_Type_File_Base.php:80
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-campaign.php:140
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-campaign.php:173
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:138
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_Types.php:257
+#: tags/1.4/inc/vendors/cmb2/includes/types/CMB2_Type_File_Base.php:80
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-campaign.php:140
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-campaign.php:173
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:138
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_Types.php:257
+#: tags/1.5/inc/vendors/cmb2/includes/types/CMB2_Type_File_Base.php:80
+#: trunk/inc/admin/metaboxes/class-dn-metabox-campaign.php:140
+#: trunk/inc/admin/metaboxes/class-dn-metabox-campaign.php:173
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:138
+#: trunk/inc/vendors/cmb2/includes/CMB2_Types.php:257
+#: trunk/inc/vendors/cmb2/includes/types/CMB2_Type_File_Base.php:80
+msgid "Remove"
+msgstr ""
+
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-campaign.php:140
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-campaign.php:147
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-campaign.php:147
+#: trunk/inc/admin/metaboxes/class-dn-metabox-campaign.php:147
+msgid "Add Compensate"
+msgstr ""
+
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-donate-action.php:42
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-donate-action.php:42
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-donate-action.php:42
+#: trunk/inc/admin/metaboxes/class-dn-metabox-donate-action.php:42
+msgid "Donate Actions"
+msgstr ""
+
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-donate-note.php:42
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-donate-note.php:42
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-donate-note.php:42
+#: trunk/inc/admin/metaboxes/class-dn-metabox-donate-note.php:42
+msgid "Donate Note"
+msgstr ""
+
+#: tags/1.2/inc/admin/metaboxes/class-dn-metabox-donate.php:41
+#: tags/1.2/templates/checkout/thank-you.php:19
+#: tags/1.4/inc/admin/metaboxes/class-dn-metabox-donate.php:41
+#: tags/1.4/templates/checkout/thank-you.php:19
+#: tags/1.5/inc/admin/metaboxes/class-dn-metabox-donate.php:41
+#: tags/1.5/templates/checkout/thank-you.php:19
+#: trunk/inc/admin/metaboxes/class-dn-metabox-donate.php:41
+#: trunk/templates/checkout/thank-you.php:19
+msgid "Donate Details"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donate-action.php:46
+#: tags/1.4/inc/admin/views/metaboxes/donate-action.php:46
+#: tags/1.5/inc/admin/views/metaboxes/donate-action.php:46
+#: trunk/inc/admin/views/metaboxes/donate-action.php:46
+msgid "Payment Status"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donate-action.php:59
+#: tags/1.4/inc/admin/views/metaboxes/donate-action.php:59
+#: tags/1.5/inc/admin/views/metaboxes/donate-action.php:59
+#: trunk/inc/admin/views/metaboxes/donate-action.php:59
+msgid "Move to Trash"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donate-action.php:66
+#: tags/1.4/inc/admin/views/metaboxes/donate-action.php:66
+#: tags/1.5/inc/admin/views/metaboxes/donate-action.php:66
+#: trunk/inc/admin/views/metaboxes/donate-action.php:66
+msgid "Update"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donate-action.php:66
+#: tags/1.2/inc/vendors/cmb2/includes/helper-functions.php:279
+#: tags/1.4/inc/admin/views/metaboxes/donate-action.php:66
+#: tags/1.4/inc/vendors/cmb2/includes/helper-functions.php:279
+#: tags/1.5/inc/admin/views/metaboxes/donate-action.php:66
+#: tags/1.5/inc/vendors/cmb2/includes/helper-functions.php:279
+#: trunk/inc/admin/views/metaboxes/donate-action.php:66
+#: trunk/inc/vendors/cmb2/includes/helper-functions.php:279
+msgid "Save"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donate-note.php:9
+#: tags/1.4/inc/admin/views/metaboxes/donate-note.php:9
+#: tags/1.5/inc/admin/views/metaboxes/donate-note.php:9
+#: trunk/inc/admin/views/metaboxes/donate-note.php:9
+msgid "Add note"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donate.php:23
+#: tags/1.4/inc/admin/views/metaboxes/donate.php:23
+#: tags/1.5/inc/admin/views/metaboxes/donate.php:23
+#: trunk/inc/admin/views/metaboxes/donate.php:23
+msgid "Donate Type"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donate.php:27
+#: tags/1.4/inc/admin/views/metaboxes/donate.php:27
+#: tags/1.5/inc/admin/views/metaboxes/donate.php:27
+#: trunk/inc/class-dn-gdpr.php:97
+#: trunk/inc/admin/views/metaboxes/donate.php:27
+msgid "System"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donate.php:28
+#: tags/1.2/inc/admin/views/metaboxes/donate.php:61
+#: tags/1.4/inc/admin/views/metaboxes/donate.php:28
+#: tags/1.4/inc/admin/views/metaboxes/donate.php:61
+#: tags/1.5/inc/admin/views/metaboxes/donate.php:28
+#: tags/1.5/inc/admin/views/metaboxes/donate.php:61
+#: trunk/inc/class-dn-gdpr.php:97
+#: trunk/inc/admin/views/metaboxes/donate.php:28
+#: trunk/inc/admin/views/metaboxes/donate.php:61
+msgid "Campaign"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donate.php:30
+#: tags/1.4/inc/admin/views/metaboxes/donate.php:30
+#: tags/1.5/inc/admin/views/metaboxes/donate.php:30
+#: trunk/inc/admin/views/metaboxes/donate.php:30
+msgid "Select donate type, donate for <i>Campaign</i> or <i>System</i>"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donate.php:38
+#: tags/1.4/inc/admin/views/metaboxes/donate.php:38
+#: tags/1.5/inc/admin/views/metaboxes/donate.php:38
+#: trunk/inc/admin/views/metaboxes/donate.php:38
+msgid "Donor"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donate.php:42
+#: tags/1.4/inc/admin/views/metaboxes/donate.php:42
+#: tags/1.5/inc/admin/views/metaboxes/donate.php:42
+#: trunk/inc/admin/views/metaboxes/donate.php:42
+msgid "----------------------------"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donate.php:50
+#: tags/1.4/inc/admin/views/metaboxes/donate.php:50
+#: tags/1.5/inc/admin/views/metaboxes/donate.php:50
+#: trunk/inc/admin/views/metaboxes/donate.php:50
+msgid "Select donor."
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donate.php:62
+#: tags/1.2/inc/admin/views/metaboxes/donor.php:55
+#: tags/1.4/inc/admin/views/metaboxes/donate.php:62
+#: tags/1.4/inc/admin/views/metaboxes/donor.php:55
+#: tags/1.5/inc/admin/views/metaboxes/donate.php:62
+#: tags/1.5/inc/admin/views/metaboxes/donor.php:55
+#: trunk/inc/admin/views/metaboxes/donate.php:62
+#: trunk/inc/admin/views/metaboxes/donor.php:55
+msgid "Amount"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donate.php:63
+#: tags/1.4/inc/admin/views/metaboxes/donate.php:63
+#: tags/1.5/inc/admin/views/metaboxes/donate.php:63
+#: trunk/inc/admin/views/metaboxes/donate.php:63
+msgid "Action"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donate.php:73
+#: tags/1.2/inc/admin/views/metaboxes/donate.php:128
+#: tags/1.4/inc/admin/views/metaboxes/donate.php:73
+#: tags/1.4/inc/admin/views/metaboxes/donate.php:128
+#: tags/1.5/inc/admin/views/metaboxes/donate.php:73
+#: tags/1.5/inc/admin/views/metaboxes/donate.php:128
+#: trunk/inc/admin/views/metaboxes/donate.php:73
+#: trunk/inc/admin/views/metaboxes/donate.php:128
+msgid "Select Campaign"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donate.php:74
+#: tags/1.2/inc/admin/views/metaboxes/donate.php:129
+#: tags/1.4/inc/admin/views/metaboxes/donate.php:74
+#: tags/1.4/inc/admin/views/metaboxes/donate.php:129
+#: tags/1.5/inc/admin/views/metaboxes/donate.php:74
+#: tags/1.5/inc/admin/views/metaboxes/donate.php:129
+#: trunk/inc/admin/views/metaboxes/donate.php:74
+#: trunk/inc/admin/views/metaboxes/donate.php:129
+msgid "-----------------------"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donate.php:96
+#: tags/1.4/inc/admin/views/metaboxes/donate.php:96
+#: tags/1.5/inc/admin/views/metaboxes/donate.php:96
+#: trunk/inc/admin/views/metaboxes/donate.php:96
+msgid "Add Campaign"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donate.php:100
+#: tags/1.4/inc/admin/views/metaboxes/donate.php:100
+#: tags/1.5/inc/admin/views/metaboxes/donate.php:100
+#: trunk/inc/admin/views/metaboxes/donate.php:100
+#, php-format
+msgid "Total(%s)"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donate.php:116
+#: tags/1.4/inc/admin/views/metaboxes/donate.php:116
+#: tags/1.5/inc/admin/views/metaboxes/donate.php:116
+#: trunk/inc/admin/views/metaboxes/donate.php:116
+#, php-format
+msgid "Donate Total(%s)"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donor.php:17
+#: tags/1.4/inc/admin/views/metaboxes/donor.php:17
+#: tags/1.5/inc/admin/views/metaboxes/donor.php:17
+#: trunk/inc/class-dn-gdpr.php:81 trunk/inc/admin/views/metaboxes/donor.php:17
+msgid "ID"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donor.php:18
+#: tags/1.4/inc/admin/views/metaboxes/donor.php:18
+#: tags/1.5/inc/admin/views/metaboxes/donor.php:18
+#: trunk/inc/admin/views/metaboxes/donor.php:18
+msgid "First name"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donor.php:19
+#: tags/1.4/inc/admin/views/metaboxes/donor.php:19
+#: tags/1.5/inc/admin/views/metaboxes/donor.php:19
+#: trunk/inc/admin/views/metaboxes/donor.php:19
+msgid "Last name"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donor.php:49
+#: tags/1.4/inc/admin/views/metaboxes/donor.php:49
+#: tags/1.5/inc/admin/views/metaboxes/donor.php:49
+#: trunk/inc/admin/views/metaboxes/donor.php:49
+msgid "Donated"
+msgstr ""
+
+#: tags/1.2/inc/admin/views/metaboxes/donor.php:54
+#: tags/1.4/inc/admin/views/metaboxes/donor.php:54
+#: tags/1.5/inc/admin/views/metaboxes/donor.php:54
+#: trunk/inc/admin/views/metaboxes/donor.php:54
+msgid "Donate ID"
+msgstr ""
+
+#: tags/1.2/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:45
+#: tags/1.4/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:45
+#: tags/1.5/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:45
+#: trunk/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:45
+msgid "AuthorizeNet"
+msgstr ""
+
+#: tags/1.2/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:58
+#: tags/1.4/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:58
+#: tags/1.5/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:58
+#: trunk/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:58
+msgid "This transaction has been approved."
+msgstr ""
+
+#: tags/1.2/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:59
+#: tags/1.4/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:59
+#: tags/1.5/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:59
+#: trunk/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:59
+msgid "This transaction has been declined."
+msgstr ""
+
+#: tags/1.2/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:60
+#: tags/1.4/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:60
+#: tags/1.5/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:60
+#: trunk/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:60
+msgid "There has been an error processing this transaction."
+msgstr ""
+
+#: tags/1.2/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:61
+#: tags/1.4/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:61
+#: tags/1.5/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:61
+#: trunk/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:61
+msgid " This transaction is being held for review."
+msgstr ""
+
+#: tags/1.2/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:121
+#: tags/1.2/inc/gateways/paypal/class-dn-payment-paypal.php:129
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:71
+#: tags/1.2/inc/settings/class-dn-setting-email.php:42
+#: tags/1.4/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:121
+#: tags/1.4/inc/gateways/paypal/class-dn-payment-paypal.php:129
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:71
+#: tags/1.4/inc/settings/class-dn-setting-email.php:42
+#: tags/1.5/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:121
+#: tags/1.5/inc/gateways/paypal/class-dn-payment-paypal.php:129
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:71
+#: tags/1.5/inc/settings/class-dn-setting-email.php:42
+#: trunk/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:121
+#: trunk/inc/gateways/paypal/class-dn-payment-paypal.php:129
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:71
+#: trunk/inc/settings/class-dn-setting-email.php:42
+msgid "Enable"
+msgstr ""
+
+#: tags/1.2/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:122
+#: tags/1.2/inc/gateways/paypal/class-dn-payment-paypal.php:130
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:72
+#: tags/1.4/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:122
+#: tags/1.4/inc/gateways/paypal/class-dn-payment-paypal.php:130
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:72
+#: tags/1.5/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:122
+#: tags/1.5/inc/gateways/paypal/class-dn-payment-paypal.php:130
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:72
+#: trunk/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:122
+#: trunk/inc/gateways/paypal/class-dn-payment-paypal.php:130
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:72
+msgid "This controlls enable payment method"
+msgstr ""
+
+#: tags/1.2/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:129
+#: tags/1.2/inc/gateways/paypal/class-dn-payment-paypal.php:137
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:79
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:86
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:159
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:65
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:80
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:101
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:116
+#: tags/1.2/inc/settings/class-dn-setting-email.php:51
+#: tags/1.4/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:129
+#: tags/1.4/inc/gateways/paypal/class-dn-payment-paypal.php:137
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:79
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:86
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:159
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:65
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:80
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:101
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:116
+#: tags/1.4/inc/settings/class-dn-setting-email.php:51
+#: tags/1.5/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:129
+#: tags/1.5/inc/gateways/paypal/class-dn-payment-paypal.php:137
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:79
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:86
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:159
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:65
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:80
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:101
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:116
+#: tags/1.5/inc/settings/class-dn-setting-email.php:51
+#: trunk/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:129
+#: trunk/inc/gateways/paypal/class-dn-payment-paypal.php:137
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:79
+#: trunk/inc/settings/class-dn-setting-checkout.php:86
+#: trunk/inc/settings/class-dn-setting-checkout.php:159
+#: trunk/inc/settings/class-dn-setting-donate.php:65
+#: trunk/inc/settings/class-dn-setting-donate.php:80
+#: trunk/inc/settings/class-dn-setting-donate.php:101
+#: trunk/inc/settings/class-dn-setting-donate.php:116
+#: trunk/inc/settings/class-dn-setting-email.php:51
+msgid "No"
+msgstr ""
+
+#: tags/1.2/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:130
+#: tags/1.2/inc/gateways/paypal/class-dn-payment-paypal.php:138
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:80
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:87
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:158
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:64
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:79
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:100
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:115
+#: tags/1.2/inc/settings/class-dn-setting-email.php:50
+#: tags/1.4/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:130
+#: tags/1.4/inc/gateways/paypal/class-dn-payment-paypal.php:138
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:80
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:87
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:158
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:64
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:79
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:100
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:115
+#: tags/1.4/inc/settings/class-dn-setting-email.php:50
+#: tags/1.5/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:130
+#: tags/1.5/inc/gateways/paypal/class-dn-payment-paypal.php:138
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:80
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:87
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:158
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:64
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:79
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:100
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:115
+#: tags/1.5/inc/settings/class-dn-setting-email.php:50
+#: trunk/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:130
+#: trunk/inc/gateways/paypal/class-dn-payment-paypal.php:138
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:80
+#: trunk/inc/settings/class-dn-setting-checkout.php:87
+#: trunk/inc/settings/class-dn-setting-checkout.php:158
+#: trunk/inc/settings/class-dn-setting-donate.php:64
+#: trunk/inc/settings/class-dn-setting-donate.php:79
+#: trunk/inc/settings/class-dn-setting-donate.php:100
+#: trunk/inc/settings/class-dn-setting-donate.php:115
+#: trunk/inc/settings/class-dn-setting-email.php:50
+msgid "Yes"
+msgstr ""
+
+#: tags/1.2/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:135
+#: tags/1.4/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:135
+#: tags/1.5/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:135
+#: trunk/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:135
+msgid "Api Login ID"
+msgstr ""
+
+#: tags/1.2/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:136
+#: tags/1.4/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:136
+#: tags/1.5/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:136
+#: trunk/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:136
+msgid "Api login id"
+msgstr ""
+
+#: tags/1.2/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:146
+#: tags/1.4/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:146
+#: tags/1.5/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:146
+#: trunk/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:146
+msgid "Transaction Key"
+msgstr ""
+
+#: tags/1.2/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:147
+#: tags/1.4/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:147
+#: tags/1.5/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:147
+#: trunk/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:147
+msgid "Transaction key"
+msgstr ""
+
+#: tags/1.2/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:162
+#: tags/1.4/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:162
+#: tags/1.5/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:162
+#: trunk/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:162
+msgid "Transaction Key is invalid."
+msgstr ""
+
+#: tags/1.2/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:201
+#: tags/1.4/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:201
+#: tags/1.5/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:201
+#: trunk/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:201
+msgid "Cancel"
+msgstr ""
+
+#: tags/1.2/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:203
+#: tags/1.4/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:203
+#: tags/1.5/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:203
+#: trunk/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:203
+msgid "Click here to return our homepage."
+msgstr ""
+
+#: tags/1.2/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:222
+#: tags/1.4/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:222
+#: tags/1.5/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:222
+#: trunk/inc/gateways/authorize-net/class-dn-payment-authorize-net.php:222
+msgid "Redirect to Authorize.Net"
+msgstr ""
+
+#: tags/1.2/inc/gateways/paypal/class-dn-payment-paypal.php:31
+#: tags/1.4/inc/gateways/paypal/class-dn-payment-paypal.php:31
+#: tags/1.5/inc/gateways/paypal/class-dn-payment-paypal.php:31
+#: trunk/inc/gateways/paypal/class-dn-payment-paypal.php:31
+msgid "Paypal"
+msgstr ""
+
+#: tags/1.2/inc/gateways/paypal/class-dn-payment-paypal.php:60
+#: tags/1.4/inc/gateways/paypal/class-dn-payment-paypal.php:60
+#: tags/1.5/inc/gateways/paypal/class-dn-payment-paypal.php:60
+#: trunk/inc/gateways/paypal/class-dn-payment-paypal.php:60
+msgid "Donate is cancel."
+msgstr ""
+
+#: tags/1.2/inc/gateways/paypal/class-dn-payment-paypal.php:143
+#: tags/1.4/inc/gateways/paypal/class-dn-payment-paypal.php:143
+#: tags/1.5/inc/gateways/paypal/class-dn-payment-paypal.php:143
+#: trunk/inc/gateways/paypal/class-dn-payment-paypal.php:143
+msgid "Paypal email"
+msgstr ""
+
+#: tags/1.2/inc/gateways/paypal/class-dn-payment-paypal.php:144
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:108
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:119
+#: tags/1.4/inc/gateways/paypal/class-dn-payment-paypal.php:144
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:108
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:119
+#: tags/1.5/inc/gateways/paypal/class-dn-payment-paypal.php:144
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:108
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:119
+#: trunk/inc/gateways/paypal/class-dn-payment-paypal.php:144
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:108
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:119
+msgid "Production environment"
+msgstr ""
+
+#: tags/1.2/inc/gateways/paypal/class-dn-payment-paypal.php:154
+#: tags/1.4/inc/gateways/paypal/class-dn-payment-paypal.php:154
+#: tags/1.5/inc/gateways/paypal/class-dn-payment-paypal.php:154
+#: trunk/inc/gateways/paypal/class-dn-payment-paypal.php:154
+msgid "Paypal sandbox email"
+msgstr ""
+
+#: tags/1.2/inc/gateways/paypal/class-dn-payment-paypal.php:155
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:86
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:97
+#: tags/1.4/inc/gateways/paypal/class-dn-payment-paypal.php:155
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:86
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:97
+#: tags/1.5/inc/gateways/paypal/class-dn-payment-paypal.php:155
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:86
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:97
+#: trunk/inc/gateways/paypal/class-dn-payment-paypal.php:155
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:86
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:97
+msgid "Test environment"
+msgstr ""
+
+#: tags/1.2/inc/gateways/paypal/class-dn-payment-paypal.php:179
+#: tags/1.4/inc/gateways/paypal/class-dn-payment-paypal.php:179
+#: tags/1.5/inc/gateways/paypal/class-dn-payment-paypal.php:179
+#: trunk/inc/gateways/paypal/class-dn-payment-paypal.php:179
+msgid "Donate for"
+msgstr ""
+
+#: tags/1.2/inc/gateways/paypal/class-dn-payment-paypal.php:226
+#: tags/1.4/inc/gateways/paypal/class-dn-payment-paypal.php:226
+#: tags/1.5/inc/gateways/paypal/class-dn-payment-paypal.php:226
+#: trunk/inc/gateways/paypal/class-dn-payment-paypal.php:226
+msgid ""
+"Email Business PayPal is invalid. Please contact administrator to setup "
+"PayPal email."
+msgstr ""
+
+#: tags/1.2/inc/gateways/stripe/checkout-form.php:5
+#: tags/1.4/inc/gateways/stripe/checkout-form.php:5
+#: tags/1.5/inc/gateways/stripe/checkout-form.php:5
+#: trunk/inc/gateways/stripe/checkout-form.php:5
+msgid "Pay securely using your credit card."
+msgstr ""
+
+#: tags/1.2/inc/gateways/stripe/checkout-form.php:7
+#: tags/1.4/inc/gateways/stripe/checkout-form.php:7
+#: tags/1.5/inc/gateways/stripe/checkout-form.php:7
+#: trunk/inc/gateways/stripe/checkout-form.php:7
+msgid "Card Number"
+msgstr ""
+
+#: tags/1.2/inc/gateways/stripe/checkout-form.php:12
+#: tags/1.4/inc/gateways/stripe/checkout-form.php:12
+#: tags/1.5/inc/gateways/stripe/checkout-form.php:12
+#: trunk/inc/gateways/stripe/checkout-form.php:12
+msgid "Expires (MM / YY)"
+msgstr ""
+
+#: tags/1.2/inc/gateways/stripe/checkout-form.php:17
+#: tags/1.4/inc/gateways/stripe/checkout-form.php:17
+#: tags/1.5/inc/gateways/stripe/checkout-form.php:17
+#: trunk/inc/gateways/stripe/checkout-form.php:17
+msgid "Card Code (CVC)"
+msgstr ""
+
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:43
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:43
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:43
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:43
+msgid "Stripe"
+msgstr ""
+
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:85
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:85
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:85
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:85
+msgid "Test Secret Key"
+msgstr ""
+
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:96
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:96
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:96
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:96
+msgid "Test Publish Key"
+msgstr ""
+
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:107
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:107
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:107
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:107
+msgid "Live Secret Key"
+msgstr ""
+
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:118
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:118
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:118
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:118
+msgid "Live Publish Key"
+msgstr ""
+
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:137
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:137
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:137
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:137
+msgid ""
+"Secret key and Publish key is invalid. Please contact administrator to setup "
+"Stripe payment."
+msgstr ""
+
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:144
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:144
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:144
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:144
+msgid "Credit Card information error."
+msgstr ""
+
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:161
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:179
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:161
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:179
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:161
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:179
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:161
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:179
+msgid "Please try again"
+msgstr ""
+
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:172
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:172
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:172
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:172
+msgid "Donor for"
+msgstr ""
+
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:194
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:194
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:194
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:194
+#, php-format
+msgid "%s - donate %s"
+msgstr ""
+
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:212
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:212
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:212
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:212
+msgid "Connect Stripe has error. Please try again!"
+msgstr ""
+
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:240
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:240
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:240
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:240
+msgid "Stripe process went wrong"
+msgstr ""
+
+#: tags/1.2/inc/gateways/stripe/class-dn-payment-stripe.php:266
+#: tags/1.4/inc/gateways/stripe/class-dn-payment-stripe.php:266
+#: tags/1.5/inc/gateways/stripe/class-dn-payment-stripe.php:266
+#: trunk/inc/gateways/stripe/class-dn-payment-stripe.php:266
+msgid ""
+"Stripe key is expired. Please contact administrator to do this payment "
+"gateway"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:34
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:102
+#: tags/1.2/templates/shortcodes/donate.php:30
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:34
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:102
+#: tags/1.4/templates/shortcodes/donate.php:30
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:34
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:102
+#: tags/1.5/templates/shortcodes/donate.php:30
+#: trunk/inc/settings/class-dn-setting-checkout.php:34
+#: trunk/inc/settings/class-dn-setting-checkout.php:102
+#: trunk/templates/shortcodes/donate.php:30
+msgid "Checkout"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:45
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:45
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:45
+#: trunk/inc/settings/class-dn-setting-checkout.php:45
+msgid "General settings"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:46
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:38
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:46
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:38
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:46
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:38
+#: trunk/inc/settings/class-dn-setting-checkout.php:46
+#: trunk/inc/settings/class-dn-setting-donate.php:38
+msgid ""
+"The following options affect how format are displayed list donate causes on "
+"the frontend."
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:50
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:50
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:50
+#: trunk/inc/settings/class-dn-setting-checkout.php:50
+msgid "Environment"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:51
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:51
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:51
+#: trunk/inc/settings/class-dn-setting-checkout.php:51
+msgid "This controlls test or production mode"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:58
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:58
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:58
+#: trunk/inc/settings/class-dn-setting-checkout.php:58
+msgid "Test"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:59
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:59
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:59
+#: trunk/inc/settings/class-dn-setting-checkout.php:59
+msgid "Production"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:65
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:65
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:65
+#: trunk/inc/settings/class-dn-setting-checkout.php:65
+msgid "Cancel Pending Order"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:66
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:66
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:66
+#: trunk/inc/settings/class-dn-setting-checkout.php:66
+msgid "This controlls how many time cancel Pending Order status."
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:78
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:78
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:78
+#: trunk/inc/settings/class-dn-setting-checkout.php:78
+msgid "Include lightbox"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:79
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:79
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:79
+#: trunk/inc/settings/class-dn-setting-checkout.php:79
+msgid ""
+"This controlls include payment lightbox donate form and not using Cart or "
+"Checkout page"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:93
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:93
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:93
+#: trunk/inc/settings/class-dn-setting-checkout.php:93
+msgid "Donate redirect."
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:94
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:94
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:94
+#: trunk/inc/settings/class-dn-setting-checkout.php:94
+msgid "This controlls redirect page on donate submit?"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:101
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:101
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:101
+#: trunk/inc/settings/class-dn-setting-checkout.php:101
+msgid "Cart"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:108
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:108
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:108
+#: trunk/inc/settings/class-dn-setting-checkout.php:108
+msgid "Cart page"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:109
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:109
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:109
+#: trunk/inc/settings/class-dn-setting-checkout.php:109
+msgid "This controlls set Cart page"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:120
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:120
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:120
+#: trunk/inc/settings/class-dn-setting-checkout.php:120
+msgid "Checkout page"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:121
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:121
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:121
+#: trunk/inc/settings/class-dn-setting-checkout.php:121
+msgid "This controlls set Checkout page"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:132
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:132
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:132
+#: trunk/inc/settings/class-dn-setting-checkout.php:132
+msgid "Terms and Conditions page"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:133
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:133
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:133
+#: trunk/inc/settings/class-dn-setting-checkout.php:133
+msgid "This controlls set Terms and Conditions page"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:145
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:145
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:145
+#: trunk/inc/settings/class-dn-setting-checkout.php:145
+msgid "Checkout page setting"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:146
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:146
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:146
+#: trunk/inc/settings/class-dn-setting-checkout.php:146
+msgid ""
+"The following options affect how format are displayed list donate causes on "
+"the checkout page."
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:150
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:150
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:150
+#: trunk/inc/settings/class-dn-setting-checkout.php:150
+msgid "Show terms & Conditions"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-checkout.php:151
+#: tags/1.4/inc/settings/class-dn-setting-checkout.php:151
+#: tags/1.5/inc/settings/class-dn-setting-checkout.php:151
+#: trunk/inc/settings/class-dn-setting-checkout.php:151
+msgid "This controlls display term & condition in checkout page"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:37
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:37
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:37
+#: trunk/inc/settings/class-dn-setting-donate.php:37
+msgid "Archive settings"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:42
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:42
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:42
+#: trunk/inc/settings/class-dn-setting-donate.php:42
+msgid "Archive columns"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:43
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:43
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:43
+#: trunk/inc/settings/class-dn-setting-donate.php:43
+msgid "This controlls how many column archive page."
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:56
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:92
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:56
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:92
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:56
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:92
+#: trunk/inc/settings/class-dn-setting-donate.php:56
+#: trunk/inc/settings/class-dn-setting-donate.php:92
+msgid "Raised and Goal"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:57
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:93
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:57
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:93
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:57
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:93
+#: trunk/inc/settings/class-dn-setting-donate.php:57
+#: trunk/inc/settings/class-dn-setting-donate.php:93
+msgid "Display raised and goal on the frontend"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:71
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:107
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:71
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:107
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:71
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:107
+#: trunk/inc/settings/class-dn-setting-donate.php:71
+#: trunk/inc/settings/class-dn-setting-donate.php:107
+msgid "Countdown Raised"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:72
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:108
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:72
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:108
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:72
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:108
+#: trunk/inc/settings/class-dn-setting-donate.php:72
+#: trunk/inc/settings/class-dn-setting-donate.php:108
+msgid "Display countdown raised on the frontend"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:87
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:87
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:87
+#: trunk/inc/settings/class-dn-setting-donate.php:87
+msgid "Single setting"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-donate.php:88
+#: tags/1.4/inc/settings/class-dn-setting-donate.php:88
+#: tags/1.5/inc/settings/class-dn-setting-donate.php:88
+#: trunk/inc/settings/class-dn-setting-donate.php:88
+msgid ""
+"The following options affect how format are displayed single page on the "
+"frontend."
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-email.php:37
+#: tags/1.4/inc/settings/class-dn-setting-email.php:37
+#: tags/1.5/inc/settings/class-dn-setting-email.php:37
+#: trunk/inc/settings/class-dn-setting-email.php:37
+msgid "Email Settings"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-email.php:38
+#: tags/1.2/inc/settings/class-dn-setting-general.php:39
+#: tags/1.4/inc/settings/class-dn-setting-email.php:38
+#: tags/1.4/inc/settings/class-dn-setting-general.php:39
+#: tags/1.5/inc/settings/class-dn-setting-email.php:38
+#: tags/1.5/inc/settings/class-dn-setting-general.php:39
+#: trunk/inc/settings/class-dn-setting-email.php:38
+#: trunk/inc/settings/class-dn-setting-general.php:39
+msgid "The following options affect how prices are displayed on the frontend."
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-email.php:43
+#: tags/1.4/inc/settings/class-dn-setting-email.php:43
+#: tags/1.5/inc/settings/class-dn-setting-email.php:43
+#: trunk/inc/settings/class-dn-setting-email.php:43
+msgid "This controlls what the currency prices"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-email.php:57
+#: tags/1.4/inc/settings/class-dn-setting-email.php:57
+#: tags/1.5/inc/settings/class-dn-setting-email.php:57
+#: trunk/inc/settings/class-dn-setting-email.php:57
+msgid "From name"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-email.php:58
+#: tags/1.4/inc/settings/class-dn-setting-email.php:58
+#: tags/1.5/inc/settings/class-dn-setting-email.php:58
+#: trunk/inc/settings/class-dn-setting-email.php:58
+msgid "This set email from name"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-email.php:70
+#: tags/1.4/inc/settings/class-dn-setting-email.php:70
+#: tags/1.5/inc/settings/class-dn-setting-email.php:70
+#: trunk/inc/settings/class-dn-setting-email.php:70
+msgid "Email from"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-email.php:71
+#: tags/1.4/inc/settings/class-dn-setting-email.php:71
+#: tags/1.5/inc/settings/class-dn-setting-email.php:71
+#: trunk/inc/settings/class-dn-setting-email.php:71
+msgid "This set email send"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-email.php:83
+#: tags/1.4/inc/settings/class-dn-setting-email.php:83
+#: tags/1.5/inc/settings/class-dn-setting-email.php:83
+#: trunk/inc/settings/class-dn-setting-email.php:83
+msgid "Email Content"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-email.php:84
+#: tags/1.4/inc/settings/class-dn-setting-email.php:84
+#: tags/1.5/inc/settings/class-dn-setting-email.php:84
+#: trunk/inc/settings/class-dn-setting-email.php:84
+msgid ""
+"Use [donor_email], [donor_first_name], [donor_last_name], [donor_phone], "
+"[donor_address] tags to generate email template"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-general.php:38
+#: tags/1.4/inc/settings/class-dn-setting-general.php:38
+#: tags/1.5/inc/settings/class-dn-setting-general.php:38
+#: trunk/inc/settings/class-dn-setting-general.php:38
+msgid "Currency settings"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-general.php:43
+#: tags/1.4/inc/settings/class-dn-setting-general.php:43
+#: tags/1.5/inc/settings/class-dn-setting-general.php:43
+#: trunk/inc/settings/class-dn-setting-general.php:43
+msgid "Donation system"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-general.php:44
+#: tags/1.4/inc/settings/class-dn-setting-general.php:44
+#: tags/1.5/inc/settings/class-dn-setting-general.php:44
+#: trunk/inc/settings/class-dn-setting-general.php:44
+msgid "Donation system without campaign."
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-general.php:55
+#: tags/1.4/inc/settings/class-dn-setting-general.php:55
+#: tags/1.5/inc/settings/class-dn-setting-general.php:55
+#: trunk/inc/settings/class-dn-setting-general.php:55
+msgid "Currency aggregator"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-general.php:56
+#: tags/1.4/inc/settings/class-dn-setting-general.php:56
+#: tags/1.5/inc/settings/class-dn-setting-general.php:56
+#: trunk/inc/settings/class-dn-setting-general.php:56
+msgid "This controls what the currency prices when change currency setting."
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-general.php:71
+#: tags/1.4/inc/settings/class-dn-setting-general.php:71
+#: tags/1.5/inc/settings/class-dn-setting-general.php:71
+#: trunk/inc/settings/class-dn-setting-general.php:71
+msgid "This controls what the currency prices."
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-general.php:82
+#: tags/1.4/inc/settings/class-dn-setting-general.php:82
+#: tags/1.5/inc/settings/class-dn-setting-general.php:82
+#: trunk/inc/settings/class-dn-setting-general.php:82
+msgid "Currency Position"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-general.php:83
+#: tags/1.4/inc/settings/class-dn-setting-general.php:83
+#: tags/1.5/inc/settings/class-dn-setting-general.php:83
+#: trunk/inc/settings/class-dn-setting-general.php:83
+msgid "This controls the position of the currency symbol."
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-general.php:90
+#: tags/1.4/inc/settings/class-dn-setting-general.php:90
+#: tags/1.5/inc/settings/class-dn-setting-general.php:90
+#: trunk/inc/settings/class-dn-setting-general.php:90
+msgid "Left"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-general.php:91
+#: tags/1.4/inc/settings/class-dn-setting-general.php:91
+#: tags/1.5/inc/settings/class-dn-setting-general.php:91
+#: trunk/inc/settings/class-dn-setting-general.php:91
+msgid "Right"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-general.php:92
+#: tags/1.4/inc/settings/class-dn-setting-general.php:92
+#: tags/1.5/inc/settings/class-dn-setting-general.php:92
+#: trunk/inc/settings/class-dn-setting-general.php:92
+msgid "Left with space"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-general.php:93
+#: tags/1.4/inc/settings/class-dn-setting-general.php:93
+#: tags/1.5/inc/settings/class-dn-setting-general.php:93
+#: trunk/inc/settings/class-dn-setting-general.php:93
+msgid "Right with space"
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-general.php:99
+#: tags/1.4/inc/settings/class-dn-setting-general.php:99
+#: tags/1.5/inc/settings/class-dn-setting-general.php:99
+#: trunk/inc/settings/class-dn-setting-general.php:99
+msgid "Thousand Separator."
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-general.php:110
+#: tags/1.4/inc/settings/class-dn-setting-general.php:110
+#: tags/1.5/inc/settings/class-dn-setting-general.php:110
+#: trunk/inc/settings/class-dn-setting-general.php:110
+msgid "Decimal Separator."
+msgstr ""
+
+#: tags/1.2/inc/settings/class-dn-setting-general.php:121
+#: tags/1.4/inc/settings/class-dn-setting-general.php:121
+#: tags/1.5/inc/settings/class-dn-setting-general.php:121
+#: trunk/inc/settings/class-dn-setting-general.php:121
+msgid "Number of Decimals."
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:117
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:117
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:117
+#: trunk/inc/vendors/cmb2/example-functions.php:117
+msgid "Test Metabox"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:130
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:436
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:130
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:436
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:130
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:436
+#: trunk/inc/vendors/cmb2/example-functions.php:130
+#: trunk/inc/vendors/cmb2/example-functions.php:436
+msgid "Test Text"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:131
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:144
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:157
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:165
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:173
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:182
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:190
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:205
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:213
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:221
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:238
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:247
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:260
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:267
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:274
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:288
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:301
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:314
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:326
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:335
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:343
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:352
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:359
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:373
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:437
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:528
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:536
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:543
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:550
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:557
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:564
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:571
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:598
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:606
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:613
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:650
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:131
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:144
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:157
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:165
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:173
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:182
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:190
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:205
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:213
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:221
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:238
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:247
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:260
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:267
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:274
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:288
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:301
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:314
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:326
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:335
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:343
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:352
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:359
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:373
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:437
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:528
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:536
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:543
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:550
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:557
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:564
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:571
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:598
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:606
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:613
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:650
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:131
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:144
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:157
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:165
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:173
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:182
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:190
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:205
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:213
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:221
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:238
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:247
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:260
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:267
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:274
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:288
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:301
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:314
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:326
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:335
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:343
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:352
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:359
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:373
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:437
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:528
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:536
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:543
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:550
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:557
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:564
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:571
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:598
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:606
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:613
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:650
+#: trunk/inc/vendors/cmb2/example-functions.php:131
+#: trunk/inc/vendors/cmb2/example-functions.php:144
+#: trunk/inc/vendors/cmb2/example-functions.php:157
+#: trunk/inc/vendors/cmb2/example-functions.php:165
+#: trunk/inc/vendors/cmb2/example-functions.php:173
+#: trunk/inc/vendors/cmb2/example-functions.php:182
+#: trunk/inc/vendors/cmb2/example-functions.php:190
+#: trunk/inc/vendors/cmb2/example-functions.php:205
+#: trunk/inc/vendors/cmb2/example-functions.php:213
+#: trunk/inc/vendors/cmb2/example-functions.php:221
+#: trunk/inc/vendors/cmb2/example-functions.php:238
+#: trunk/inc/vendors/cmb2/example-functions.php:247
+#: trunk/inc/vendors/cmb2/example-functions.php:260
+#: trunk/inc/vendors/cmb2/example-functions.php:267
+#: trunk/inc/vendors/cmb2/example-functions.php:274
+#: trunk/inc/vendors/cmb2/example-functions.php:288
+#: trunk/inc/vendors/cmb2/example-functions.php:301
+#: trunk/inc/vendors/cmb2/example-functions.php:314
+#: trunk/inc/vendors/cmb2/example-functions.php:326
+#: trunk/inc/vendors/cmb2/example-functions.php:335
+#: trunk/inc/vendors/cmb2/example-functions.php:343
+#: trunk/inc/vendors/cmb2/example-functions.php:352
+#: trunk/inc/vendors/cmb2/example-functions.php:359
+#: trunk/inc/vendors/cmb2/example-functions.php:373
+#: trunk/inc/vendors/cmb2/example-functions.php:437
+#: trunk/inc/vendors/cmb2/example-functions.php:528
+#: trunk/inc/vendors/cmb2/example-functions.php:536
+#: trunk/inc/vendors/cmb2/example-functions.php:543
+#: trunk/inc/vendors/cmb2/example-functions.php:550
+#: trunk/inc/vendors/cmb2/example-functions.php:557
+#: trunk/inc/vendors/cmb2/example-functions.php:564
+#: trunk/inc/vendors/cmb2/example-functions.php:571
+#: trunk/inc/vendors/cmb2/example-functions.php:598
+#: trunk/inc/vendors/cmb2/example-functions.php:606
+#: trunk/inc/vendors/cmb2/example-functions.php:613
+#: trunk/inc/vendors/cmb2/example-functions.php:650
+msgid "field description (optional)"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:143
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:143
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:143
+#: trunk/inc/vendors/cmb2/example-functions.php:143
+msgid "Test Text Small"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:156
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:156
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:156
+#: trunk/inc/vendors/cmb2/example-functions.php:156
+msgid "Test Text Medium"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:164
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:164
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:164
+#: trunk/inc/vendors/cmb2/example-functions.php:164
+msgid "Custom Rendered Field"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:172
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:172
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:172
+#: trunk/inc/vendors/cmb2/example-functions.php:172
+msgid "Website URL"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:181
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:181
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:181
+#: trunk/inc/vendors/cmb2/example-functions.php:181
+msgid "Test Text Email"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:189
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:189
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:189
+#: trunk/inc/vendors/cmb2/example-functions.php:189
+msgid "Test Time"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:197
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:198
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:197
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:198
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:197
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:198
+#: trunk/inc/vendors/cmb2/example-functions.php:197
+#: trunk/inc/vendors/cmb2/example-functions.php:198
+msgid "Time zone"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:204
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:204
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:204
+#: trunk/inc/vendors/cmb2/example-functions.php:204
+msgid "Test Date Picker"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:212
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:212
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:212
+#: trunk/inc/vendors/cmb2/example-functions.php:212
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:220
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:220
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:220
+#: trunk/inc/vendors/cmb2/example-functions.php:220
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:237
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:237
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:237
+#: trunk/inc/vendors/cmb2/example-functions.php:237
+msgid "Test Money"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:246
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:246
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:246
+#: trunk/inc/vendors/cmb2/example-functions.php:246
+msgid "Test Color Picker"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:259
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:259
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:259
+#: trunk/inc/vendors/cmb2/example-functions.php:259
+msgid "Test Text Area"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:266
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:266
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:266
+#: trunk/inc/vendors/cmb2/example-functions.php:266
+msgid "Test Text Area Small"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:273
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:273
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:273
+#: trunk/inc/vendors/cmb2/example-functions.php:273
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:280
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:280
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:280
+#: trunk/inc/vendors/cmb2/example-functions.php:280
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:281
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:281
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:281
+#: trunk/inc/vendors/cmb2/example-functions.php:281
+msgid "This is a title description"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:287
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:287
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:287
+#: trunk/inc/vendors/cmb2/example-functions.php:287
+msgid "Test Select"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:293
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:306
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:318
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:293
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:306
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:318
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:293
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:306
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:318
+#: trunk/inc/vendors/cmb2/example-functions.php:293
+#: trunk/inc/vendors/cmb2/example-functions.php:306
+#: trunk/inc/vendors/cmb2/example-functions.php:318
+msgid "Option One"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:294
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:307
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:319
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:294
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:307
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:319
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:294
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:307
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:319
+#: trunk/inc/vendors/cmb2/example-functions.php:294
+#: trunk/inc/vendors/cmb2/example-functions.php:307
+#: trunk/inc/vendors/cmb2/example-functions.php:319
+msgid "Option Two"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:295
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:308
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:320
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:295
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:308
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:320
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:295
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:308
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:320
+#: trunk/inc/vendors/cmb2/example-functions.php:295
+#: trunk/inc/vendors/cmb2/example-functions.php:308
+#: trunk/inc/vendors/cmb2/example-functions.php:320
+msgid "Option Three"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:300
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:300
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:300
+#: trunk/inc/vendors/cmb2/example-functions.php:300
+msgid "Test Radio inline"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:313
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:313
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:313
+#: trunk/inc/vendors/cmb2/example-functions.php:313
+msgid "Test Radio"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:325
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:325
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:325
+#: trunk/inc/vendors/cmb2/example-functions.php:325
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:334
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:334
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:334
+#: trunk/inc/vendors/cmb2/example-functions.php:334
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:342
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:342
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:342
+#: trunk/inc/vendors/cmb2/example-functions.php:342
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:351
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:351
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:351
+#: trunk/inc/vendors/cmb2/example-functions.php:351
+msgid "Test Checkbox"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:358
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:358
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:358
+#: trunk/inc/vendors/cmb2/example-functions.php:358
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:364
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:364
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:364
+#: trunk/inc/vendors/cmb2/example-functions.php:364
+msgid "Check One"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:365
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:365
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:365
+#: trunk/inc/vendors/cmb2/example-functions.php:365
+msgid "Check Two"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:366
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:366
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:366
+#: trunk/inc/vendors/cmb2/example-functions.php:366
+msgid "Check Three"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:372
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:372
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:372
+#: trunk/inc/vendors/cmb2/example-functions.php:372
+msgid "Test wysiwyg"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:380
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:380
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:380
+#: trunk/inc/vendors/cmb2/example-functions.php:380
+msgid "Test Image"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:381
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:381
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:381
+#: trunk/inc/vendors/cmb2/example-functions.php:381
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:387
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:387
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:387
+#: trunk/inc/vendors/cmb2/example-functions.php:387
+msgid "Multiple Files"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:388
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:388
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:388
+#: trunk/inc/vendors/cmb2/example-functions.php:388
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:395
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:395
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:395
+#: trunk/inc/vendors/cmb2/example-functions.php:395
+msgid "oEmbed"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:396
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:396
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:396
+#: trunk/inc/vendors/cmb2/example-functions.php:396
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:427
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:427
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:427
+#: trunk/inc/vendors/cmb2/example-functions.php:427
+msgid "About Page Metabox"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:456
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:456
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:456
+#: trunk/inc/vendors/cmb2/example-functions.php:456
+msgid "Repeating Field Group"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:464
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:464
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:464
+#: trunk/inc/vendors/cmb2/example-functions.php:464
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:466
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:466
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:466
+#: trunk/inc/vendors/cmb2/example-functions.php:466
+msgid "Entry {#}"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:467
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:467
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:467
+#: trunk/inc/vendors/cmb2/example-functions.php:467
+msgid "Add Another Entry"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:468
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:468
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:468
+#: trunk/inc/vendors/cmb2/example-functions.php:468
+msgid "Remove Entry"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:481
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:481
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:481
+#: trunk/inc/vendors/cmb2/example-functions.php:481
+msgid "Entry Title"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:489
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:489
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:489
+#: trunk/inc/vendors/cmb2/example-functions.php:489
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:495
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:495
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:495
+#: trunk/inc/vendors/cmb2/example-functions.php:495
+msgid "Entry Image"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:501
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:501
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:501
+#: trunk/inc/vendors/cmb2/example-functions.php:501
+msgid "Image Caption"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:520
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:520
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:520
+#: trunk/inc/vendors/cmb2/example-functions.php:520
+msgid "User Profile Metabox"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:527
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:597
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:527
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:597
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:527
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:597
+#: trunk/inc/vendors/cmb2/example-functions.php:527
+#: trunk/inc/vendors/cmb2/example-functions.php:597
+msgid "Extra Info"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:535
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:535
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:535
+#: trunk/inc/vendors/cmb2/example-functions.php:535
+msgid "Avatar"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:542
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:542
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:542
+#: trunk/inc/vendors/cmb2/example-functions.php:542
+msgid "Facebook URL"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:549
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:549
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:549
+#: trunk/inc/vendors/cmb2/example-functions.php:549
+msgid "Twitter URL"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:556
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:556
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:556
+#: trunk/inc/vendors/cmb2/example-functions.php:556
+msgid "Google+ URL"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:563
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:563
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:563
+#: trunk/inc/vendors/cmb2/example-functions.php:563
+msgid "Linkedin URL"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:570
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:570
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:570
+#: trunk/inc/vendors/cmb2/example-functions.php:570
+msgid "User Field"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:590
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:590
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:590
+#: trunk/inc/vendors/cmb2/example-functions.php:590
+msgid "Category Metabox"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:605
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:605
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:605
+#: trunk/inc/vendors/cmb2/example-functions.php:605
+msgid "Term Image"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:612
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:612
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:612
+#: trunk/inc/vendors/cmb2/example-functions.php:612
+msgid "Arbitrary Term Field"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:634
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:634
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:634
+#: trunk/inc/vendors/cmb2/example-functions.php:634
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/example-functions.php:649
+#: tags/1.4/inc/vendors/cmb2/example-functions.php:649
+#: tags/1.5/inc/vendors/cmb2/example-functions.php:649
+#: trunk/inc/vendors/cmb2/example-functions.php:649
+msgid "Site Background Color"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2.php:129
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2.php:129
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2.php:129
+#: trunk/inc/vendors/cmb2/includes/CMB2.php:129
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2.php:418
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2.php:418
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2.php:418
+#: trunk/inc/vendors/cmb2/includes/CMB2.php:418
+msgid "Click to toggle"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_Ajax.php:71
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_Ajax.php:71
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_Ajax.php:71
+#: trunk/inc/vendors/cmb2/includes/CMB2_Ajax.php:71
+msgid "Please Try Again"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_Ajax.php:173
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_Ajax.php:173
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_Ajax.php:173
+#: trunk/inc/vendors/cmb2/includes/CMB2_Ajax.php:173
+msgid "Remove Embed"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_Ajax.php:177
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_Ajax.php:177
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_Ajax.php:177
+#: trunk/inc/vendors/cmb2/includes/CMB2_Ajax.php:177
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_Field.php:1186
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_Field.php:1186
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_Field.php:1186
+#: trunk/inc/vendors/cmb2/includes/CMB2_Field.php:1186
+msgid "Add Group"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_Field.php:1187
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_Field.php:1187
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_Field.php:1187
+#: trunk/inc/vendors/cmb2/includes/CMB2_Field.php:1187
+msgid "Remove Group"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_Field.php:1209
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_Field.php:1213
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_Field.php:1209
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_Field.php:1213
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_Field.php:1209
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_Field.php:1213
+#: trunk/inc/vendors/cmb2/includes/CMB2_Field.php:1209
+#: trunk/inc/vendors/cmb2/includes/CMB2_Field.php:1213
+msgid "None"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_Field.php:1269
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_Field.php:1269
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_Field.php:1269
+#: trunk/inc/vendors/cmb2/includes/CMB2_Field.php:1269
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_Field_Display.php:408
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:139
+#: tags/1.2/inc/vendors/cmb2/includes/types/CMB2_Type_File_Base.php:75
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_Field_Display.php:408
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:139
+#: tags/1.4/inc/vendors/cmb2/includes/types/CMB2_Type_File_Base.php:75
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_Field_Display.php:408
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:139
+#: tags/1.5/inc/vendors/cmb2/includes/types/CMB2_Type_File_Base.php:75
+#: trunk/inc/vendors/cmb2/includes/CMB2_Field_Display.php:408
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:139
+#: trunk/inc/vendors/cmb2/includes/types/CMB2_Type_File_Base.php:75
+msgid "File:"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_hookup.php:143
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_hookup.php:143
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_hookup.php:143
+#: trunk/inc/vendors/cmb2/includes/CMB2_hookup.php:143
+msgid ""
+"Term Metadata is a WordPress > 4.4 feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_hookup.php:147
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_hookup.php:147
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_hookup.php:147
+#: trunk/inc/vendors/cmb2/includes/CMB2_hookup.php:147
+msgid "Term metaboxes configuration requires a 'taxonomies' parameter"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:86
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:119
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:86
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:119
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:86
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:119
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:86
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:87
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:87
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:87
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:88
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:88
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:88
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:89
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:89
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:89
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:109
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:109
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:109
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:110
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:110
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:110
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:111
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:111
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:111
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:112
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:112
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:112
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:113
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:113
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:113
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:114
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:114
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:114
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:115
+#: tags/1.2/templates/pagination.php:30
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:115
+#: tags/1.4/templates/pagination.php:30
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:115
+#: tags/1.5/templates/pagination.php:30
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:115
+#: trunk/templates/pagination.php:30
+msgid "Next"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:116
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:116
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:116
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:117
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:117
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:117
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:118
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:128
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:118
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:128
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:118
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:128
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:118
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:122
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:122
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:122
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:123
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:123
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:123
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:124
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:124
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:124
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:125
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:125
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:125
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:126
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:126
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:126
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:127
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:127
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:127
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:129
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:129
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:129
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:135
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:135
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:135
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:136
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:136
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:136
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:137
+#: tags/1.2/inc/vendors/cmb2/includes/types/CMB2_Type_File_Base.php:61
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:137
+#: tags/1.4/inc/vendors/cmb2/includes/types/CMB2_Type_File_Base.php:61
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:137
+#: tags/1.5/inc/vendors/cmb2/includes/types/CMB2_Type_File_Base.php:61
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:137
+#: trunk/inc/vendors/cmb2/includes/types/CMB2_Type_File_Base.php:61
+msgid "Remove Image"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:140
+#: tags/1.2/inc/vendors/cmb2/includes/types/CMB2_Type_File_Base.php:78
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:140
+#: tags/1.4/inc/vendors/cmb2/includes/types/CMB2_Type_File_Base.php:78
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:140
+#: tags/1.5/inc/vendors/cmb2/includes/types/CMB2_Type_File_Base.php:78
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:140
+#: trunk/inc/vendors/cmb2/includes/types/CMB2_Type_File_Base.php:78
+msgid "Download"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_JS.php:141
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_JS.php:141
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_JS.php:141
+#: trunk/inc/vendors/cmb2/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/CMB2_Types.php:194
+#: tags/1.4/inc/vendors/cmb2/includes/CMB2_Types.php:194
+#: tags/1.5/inc/vendors/cmb2/includes/CMB2_Types.php:194
+#: trunk/inc/vendors/cmb2/includes/CMB2_Types.php:194
+msgid "Add Row"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/helper-functions.php:93
+#: tags/1.4/inc/vendors/cmb2/includes/helper-functions.php:93
+#: tags/1.5/inc/vendors/cmb2/includes/helper-functions.php:93
+#: trunk/inc/vendors/cmb2/includes/helper-functions.php:93
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at %s"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/types/CMB2_Type_File.php:36
+#: tags/1.4/inc/vendors/cmb2/includes/types/CMB2_Type_File.php:36
+#: tags/1.5/inc/vendors/cmb2/includes/types/CMB2_Type_File.php:36
+#: trunk/inc/vendors/cmb2/includes/types/CMB2_Type_File.php:36
+msgid "Add or Upload File"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/types/CMB2_Type_File_List.php:36
+#: tags/1.4/inc/vendors/cmb2/includes/types/CMB2_Type_File_List.php:36
+#: tags/1.5/inc/vendors/cmb2/includes/types/CMB2_Type_File_List.php:36
+#: trunk/inc/vendors/cmb2/includes/types/CMB2_Type_File_List.php:36
+msgid "Add or Upload Files"
+msgstr ""
+
+#: tags/1.2/inc/vendors/cmb2/includes/types/CMB2_Type_Taxonomy_Multicheck.php:27
+#: tags/1.2/inc/vendors/cmb2/includes/types/CMB2_Type_Taxonomy_Radio.php:25
+#: tags/1.4/inc/vendors/cmb2/includes/types/CMB2_Type_Taxonomy_Multicheck.php:27
+#: tags/1.4/inc/vendors/cmb2/includes/types/CMB2_Type_Taxonomy_Radio.php:25
+#: tags/1.5/inc/vendors/cmb2/includes/types/CMB2_Type_Taxonomy_Multicheck.php:27
+#: tags/1.5/inc/vendors/cmb2/includes/types/CMB2_Type_Taxonomy_Radio.php:25
+#: trunk/inc/vendors/cmb2/includes/types/CMB2_Type_Taxonomy_Multicheck.php:27
+#: trunk/inc/vendors/cmb2/includes/types/CMB2_Type_Taxonomy_Radio.php:25
+msgid "No terms"
+msgstr ""
+
+#: tags/1.2/inc/widgets/class-dn-widget-button.php:18
+#: tags/1.4/inc/widgets/class-dn-widget-button.php:18
+#: tags/1.5/inc/widgets/class-dn-widget-button.php:18
+#: trunk/inc/widgets/class-dn-widget-button.php:18
+msgid "Create button donate everywhere"
+msgstr ""
+
+#: tags/1.2/inc/widgets/class-dn-widget-button.php:50
+#: tags/1.2/inc/widgets/class-dn-widget-donate-system.php:51
+#: tags/1.4/inc/widgets/class-dn-widget-button.php:50
+#: tags/1.4/inc/widgets/class-dn-widget-donate-system.php:51
+#: tags/1.5/inc/widgets/class-dn-widget-button.php:50
+#: tags/1.5/inc/widgets/class-dn-widget-donate-system.php:51
+#: trunk/inc/widgets/class-dn-widget-button.php:50
+#: trunk/inc/widgets/class-dn-widget-donate-system.php:51
+msgid "Title:"
+msgstr ""
+
+#: tags/1.2/inc/widgets/class-dn-widget-donate-system.php:18
+#: tags/1.4/inc/widgets/class-dn-widget-donate-system.php:18
+#: tags/1.5/inc/widgets/class-dn-widget-donate-system.php:18
+#: trunk/inc/widgets/class-dn-widget-donate-system.php:18
+msgid "Donate System"
+msgstr ""
+
+#: tags/1.2/inc/widgets/class-dn-widget-donate-system.php:19
+#: tags/1.4/inc/widgets/class-dn-widget-donate-system.php:19
+#: tags/1.5/inc/widgets/class-dn-widget-donate-system.php:19
+#: trunk/inc/widgets/class-dn-widget-donate-system.php:19
+msgid "Show amount donated of system."
+msgstr ""
+
+#: tags/1.2/templates/pagination.php:29 tags/1.4/templates/pagination.php:29
+#: tags/1.5/templates/pagination.php:29 trunk/templates/pagination.php:29
+msgid "Previous"
+msgstr ""
+
+#: tags/1.2/templates/cart/cart_footer.php:9
+#: tags/1.4/templates/cart/cart_footer.php:9
+#: tags/1.5/templates/cart/cart_footer.php:9
+#: trunk/templates/cart/cart_footer.php:9
+msgid "Donate Payment"
+msgstr ""
+
+#: tags/1.2/templates/cart/cart_title.php:14
+#: tags/1.2/templates/checkout/cart_title.php:11
+#: tags/1.4/templates/cart/cart_title.php:14
+#: tags/1.4/templates/checkout/cart_title.php:11
+#: tags/1.5/templates/cart/cart_title.php:14
+#: tags/1.5/templates/checkout/cart_title.php:11
+#: trunk/templates/cart/cart_title.php:14
+#: trunk/templates/checkout/cart_title.php:11
+msgid "Item name"
+msgstr ""
+
+#: tags/1.2/templates/cart/cart_title.php:17
+#: tags/1.2/templates/checkout/cart_title.php:14
+#: tags/1.4/templates/cart/cart_title.php:17
+#: tags/1.4/templates/checkout/cart_title.php:14
+#: tags/1.5/templates/cart/cart_title.php:17
+#: tags/1.5/templates/checkout/cart_title.php:14
+#: trunk/templates/cart/cart_title.php:17
+#: trunk/templates/checkout/cart_title.php:14
+msgid "Item amount"
+msgstr ""
+
+#: tags/1.2/templates/cart/empty.php:12 tags/1.4/templates/cart/empty.php:12
+#: tags/1.5/templates/cart/empty.php:12 trunk/templates/cart/empty.php:12
+msgid "You have no donate item!"
+msgstr ""
+
+#: tags/1.2/templates/checkout/personal.php:13
+#: tags/1.2/templates/shortcodes/donate-form.php:68
+#: tags/1.4/templates/checkout/personal.php:13
+#: tags/1.4/templates/shortcodes/donate-form.php:68
+#: tags/1.5/templates/checkout/personal.php:13
+#: tags/1.5/templates/shortcodes/donate-form.php:68
+#: trunk/templates/checkout/personal.php:13
+#: trunk/templates/shortcodes/donate-form.php:68
+msgid "Personal Info"
+msgstr ""
+
+#: tags/1.2/templates/checkout/personal.php:18
+#: tags/1.2/templates/shortcodes/donate-form.php:71
+#: tags/1.4/templates/checkout/personal.php:18
+#: tags/1.4/templates/shortcodes/donate-form.php:71
+#: tags/1.5/templates/checkout/personal.php:18
+#: tags/1.5/templates/shortcodes/donate-form.php:71
+#: trunk/templates/checkout/personal.php:18
+#: trunk/templates/shortcodes/donate-form.php:71
+msgid "* First Name"
+msgstr ""
+
+#: tags/1.2/templates/checkout/personal.php:22
+#: tags/1.2/templates/shortcodes/donate-form.php:75
+#: tags/1.4/templates/checkout/personal.php:22
+#: tags/1.4/templates/shortcodes/donate-form.php:75
+#: tags/1.5/templates/checkout/personal.php:22
+#: tags/1.5/templates/shortcodes/donate-form.php:75
+#: trunk/templates/checkout/personal.php:22
+#: trunk/templates/shortcodes/donate-form.php:75
+msgid "* Last Name"
+msgstr ""
+
+#: tags/1.2/templates/checkout/personal.php:26
+#: tags/1.2/templates/shortcodes/donate-form.php:79
+#: tags/1.4/templates/checkout/personal.php:26
+#: tags/1.4/templates/shortcodes/donate-form.php:79
+#: tags/1.5/templates/checkout/personal.php:26
+#: tags/1.5/templates/shortcodes/donate-form.php:79
+#: trunk/templates/checkout/personal.php:26
+#: trunk/templates/shortcodes/donate-form.php:79
+msgid "* Email"
+msgstr ""
+
+#: tags/1.2/templates/checkout/personal.php:30
+#: tags/1.2/templates/shortcodes/donate-form.php:83
+#: tags/1.4/templates/checkout/personal.php:30
+#: tags/1.4/templates/shortcodes/donate-form.php:83
+#: tags/1.5/templates/checkout/personal.php:30
+#: tags/1.5/templates/shortcodes/donate-form.php:83
+#: trunk/templates/checkout/personal.php:30
+#: trunk/templates/shortcodes/donate-form.php:83
+msgid "* Phone"
+msgstr ""
+
+#: tags/1.2/templates/checkout/personal.php:34
+#: tags/1.2/templates/shortcodes/donate-form.php:87
+#: tags/1.4/templates/checkout/personal.php:34
+#: tags/1.4/templates/shortcodes/donate-form.php:87
+#: tags/1.5/templates/checkout/personal.php:34
+#: tags/1.5/templates/shortcodes/donate-form.php:87
+#: trunk/templates/checkout/personal.php:34
+#: trunk/templates/shortcodes/donate-form.php:87
+msgid "* Address"
+msgstr ""
+
+#: tags/1.2/templates/checkout/personal.php:38
+#: tags/1.2/templates/shortcodes/donate-form.php:91
+#: tags/1.4/templates/checkout/personal.php:38
+#: tags/1.4/templates/shortcodes/donate-form.php:91
+#: tags/1.5/templates/checkout/personal.php:38
+#: tags/1.5/templates/shortcodes/donate-form.php:91
+#: trunk/templates/checkout/personal.php:38
+#: trunk/templates/shortcodes/donate-form.php:91
+msgid "Additional note"
+msgstr ""
+
+#: tags/1.2/templates/checkout/term_condition.php:16
+#: tags/1.2/templates/shortcodes/donate-form.php:105
+#: tags/1.4/templates/checkout/term_condition.php:16
+#: tags/1.4/templates/shortcodes/donate-form.php:105
+#: tags/1.5/templates/checkout/term_condition.php:16
+#: tags/1.5/templates/shortcodes/donate-form.php:105
+#: trunk/templates/checkout/term_condition.php:16
+#: trunk/templates/shortcodes/donate-form.php:105
+msgid "Terms & Conditions"
+msgstr ""
+
+#: tags/1.2/templates/checkout/thank-you.php:15
+#: tags/1.4/templates/checkout/thank-you.php:15
+#: tags/1.5/templates/checkout/thank-you.php:15
+#: trunk/templates/checkout/thank-you.php:15
+msgid "Thanks for your donation."
+msgstr ""
+
+#: tags/1.2/templates/checkout/thank-you.php:22
+#: tags/1.4/templates/checkout/thank-you.php:22
+#: tags/1.5/templates/checkout/thank-you.php:22
+#: trunk/templates/checkout/thank-you.php:22
+msgid "Donate ID: "
+msgstr ""
+
+#: tags/1.2/templates/checkout/thank-you.php:26
+#: tags/1.4/templates/checkout/thank-you.php:26
+#: tags/1.5/templates/checkout/thank-you.php:26
+#: trunk/templates/checkout/thank-you.php:26
+msgid "Donated Total: "
+msgstr ""
+
+#: tags/1.2/templates/checkout/thank-you.php:30
+#: tags/1.4/templates/checkout/thank-you.php:30
+#: tags/1.5/templates/checkout/thank-you.php:30
+#: trunk/templates/checkout/thank-you.php:30
+msgid "Donate Date: "
+msgstr ""
+
+#: tags/1.2/templates/checkout/thank-you.php:34
+#: tags/1.4/templates/checkout/thank-you.php:34
+#: tags/1.5/templates/checkout/thank-you.php:34
+#: trunk/templates/checkout/thank-you.php:34
+msgid "Payment Method: "
+msgstr ""
+
+#: tags/1.2/templates/checkout/thank-you.php:45
+#: tags/1.4/templates/checkout/thank-you.php:45
+#: tags/1.5/templates/checkout/thank-you.php:45
+#: trunk/templates/checkout/thank-you.php:45
+msgid "Donate Status: "
+msgstr ""
+
+#: tags/1.2/templates/checkout/thank-you.php:55
+#: tags/1.4/templates/checkout/thank-you.php:55
+#: tags/1.5/templates/checkout/thank-you.php:55
+#: trunk/templates/checkout/thank-you.php:55
+msgid "Donor Information"
+msgstr ""
+
+#: tags/1.2/templates/checkout/thank-you.php:58
+#: tags/1.4/templates/checkout/thank-you.php:58
+#: tags/1.5/templates/checkout/thank-you.php:58
+#: trunk/templates/checkout/thank-you.php:58
+msgid "First Name: "
+msgstr ""
+
+#: tags/1.2/templates/checkout/thank-you.php:62
+#: tags/1.4/templates/checkout/thank-you.php:62
+#: tags/1.5/templates/checkout/thank-you.php:62
+#: trunk/templates/checkout/thank-you.php:62
+msgid "Last Name: "
+msgstr ""
+
+#: tags/1.2/templates/checkout/thank-you.php:66
+#: tags/1.4/templates/checkout/thank-you.php:66
+#: tags/1.5/templates/checkout/thank-you.php:66
+#: trunk/templates/checkout/thank-you.php:66
+msgid "Email: "
+msgstr ""
+
+#: tags/1.2/templates/checkout/thank-you.php:70
+#: tags/1.4/templates/checkout/thank-you.php:70
+#: tags/1.5/templates/checkout/thank-you.php:70
+#: trunk/templates/checkout/thank-you.php:70
+msgid "Phone: "
+msgstr ""
+
+#: tags/1.2/templates/checkout/thank-you.php:74
+#: tags/1.4/templates/checkout/thank-you.php:74
+#: tags/1.5/templates/checkout/thank-you.php:74
+#: trunk/templates/checkout/thank-you.php:74
+msgid "Addition Note: "
+msgstr ""
+
+#: tags/1.2/templates/loop/countdown.php:16
+#: tags/1.4/templates/loop/countdown.php:16
+#: tags/1.5/templates/loop/countdown.php:16
+#: trunk/templates/loop/countdown.php:16
+#, php-format
+msgid "%s Days To Go"
+msgstr ""
+
+#: tags/1.2/templates/loop/posted.php:11 tags/1.4/templates/loop/posted.php:11
+#: tags/1.5/templates/loop/posted.php:11 trunk/templates/loop/posted.php:11
+msgid "Posted in:"
+msgstr ""
+
+#: tags/1.2/templates/loop/posted.php:16 tags/1.4/templates/loop/posted.php:16
+#: tags/1.5/templates/loop/posted.php:16 trunk/templates/loop/posted.php:16
+msgid "Posted by:"
+msgstr ""
+
+#: tags/1.2/templates/loop/thumbnail.php:24
+#: tags/1.2/templates/shortcodes/donate.php:11
+#: tags/1.2/templates/single/donate.php:8
+#: tags/1.4/templates/loop/thumbnail.php:24
+#: tags/1.4/templates/shortcodes/donate.php:11
+#: tags/1.4/templates/single/donate.php:8
+#: tags/1.5/templates/loop/thumbnail.php:24
+#: tags/1.5/templates/shortcodes/donate.php:11
+#: tags/1.5/templates/single/donate.php:8
+#: trunk/templates/loop/thumbnail.php:24
+#: trunk/templates/shortcodes/donate.php:11
+#: trunk/templates/single/donate.php:8
+msgid "Donate now"
+msgstr ""
+
+#: tags/1.2/templates/shortcodes/donate-form.php:11
+#: tags/1.4/templates/shortcodes/donate-form.php:11
+#: tags/1.5/templates/shortcodes/donate-form.php:11
+#: trunk/templates/shortcodes/donate-form.php:11
+msgid "Donation amount"
+msgstr ""
+
+#: tags/1.2/templates/shortcodes/donate-form.php:54
+#: tags/1.2/templates/shortcodes/donate-form.php:155
+#: tags/1.4/templates/shortcodes/donate-form.php:54
+#: tags/1.4/templates/shortcodes/donate-form.php:155
+#: tags/1.5/templates/shortcodes/donate-form.php:54
+#: tags/1.5/templates/shortcodes/donate-form.php:155
+#: trunk/templates/shortcodes/donate-form.php:54
+#: trunk/templates/shortcodes/donate-form.php:155
+msgid "Enter custom donate amount: "
+msgstr ""
+
+#: tags/1.2/templates/shortcodes/donate.php:29
+#: tags/1.4/templates/shortcodes/donate.php:29
+#: tags/1.5/templates/shortcodes/donate.php:29
+#: trunk/templates/shortcodes/donate.php:29
+msgid "View Cart"
+msgstr ""
+
+#: tags/1.4/inc/class-dn-setting.php:62 tags/1.5/inc/class-dn-setting.php:62
+#: trunk/inc/class-dn-setting.php:62
+msgid "Fundpress Settings"
+msgstr ""
+
+#: trunk/inc/class-dn-gdpr.php:27 trunk/inc/class-dn-gdpr.php:41
+msgid "Fundpress Donate"
+msgstr ""
+
+#: trunk/inc/class-dn-gdpr.php:74
+msgid "No item"
+msgstr ""
+
+#: trunk/inc/class-dn-gdpr.php:83
+msgid "Created Date"
+msgstr ""
+
+#: trunk/inc/class-dn-gdpr.php:87
+msgid "Customer Details"
+msgstr ""
+
+#: trunk/inc/class-dn-gdpr.php:90
+msgid "Items"
+msgstr ""
