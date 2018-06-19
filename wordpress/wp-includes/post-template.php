@@ -232,7 +232,7 @@ function the_content( $more_link_text = null, $strip_teaser = false) {
 
 	/**
 	 * Filters the post content.
-	 *?>
+	 *
 	 * @since 0.71
 	 *
 	 * @param string $content Content of the current post.

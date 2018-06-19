@@ -1,4 +1,4 @@
- <?php
+<?php
 /* Set Default value when theme option not save at first time setup */
 if ( is_page_template( 'page-templates/homepage.php' ) || is_page_template( 'page-templates/comingsoon.php' ) ) {
 	$file = thim_template_path();

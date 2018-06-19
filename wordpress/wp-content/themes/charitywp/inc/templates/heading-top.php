@@ -1,4 +1,4 @@
- <?php
+<?php
 global $wp_query;
 /***********custom Top Images*************/
 $text_color = $custom_title = $subtitle = $bg_color = $bg_header = $class_full = $text_color_header =
