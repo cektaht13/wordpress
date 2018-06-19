@@ -64,13 +64,6 @@
 			'link_after'  => '</span>',
 		) );
 		?>
-
-		<select id="dropdown" name="dropdown">
-			<option value="new" name="new" disabled="disabled" selected="selected">New/Active</option>
-			<option value="progress" name="progress">In progress</option>
-			<option value="cancelled" name="cancelled">Cancelled</option>
-			<option value="completed" name="completed">Completed</option>
-		</select>
 	</div><!-- .entry-content -->
 
 	<?php
