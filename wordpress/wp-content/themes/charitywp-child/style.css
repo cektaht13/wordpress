@@ -8,3 +8,50 @@
  Version:      1.0.0
  Text Domain:  charitywp-child
 */
+.card-val{
+    padding: 0px 8px;
+    display: inline-block;
+    font-size: 80%;
+}
+.card-val.tag-available{
+    background: rgb(207, 207, 207);
+    border: 1px solid rgb(207, 207, 207);
+}
+.card-val.tag-in-progress{
+    color: rgb(116, 157, 219);
+    border: 1px solid rgb(116, 157, 219);
+}
+.card-val.tag-fulfilled{
+    color: rgb(94, 175, 67);
+    border: 1px solid rgb(94, 175, 67);
+}
+
+.unweighted-cloud .tagcloud a {
+	display: block;
+	font-size: 13px !important;
+	color: black !important;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.unweighted-cloud .tagcloud a:hover {
+	color: #f8b864 !important;
+}
+
+.single.single-dn_campaign article.dn_campaign a.donate_load_form_disabled {
+    float: right;
+}
+.campaign_thumbnail_overlay .donate_load_form_disabled {
+    background: #f8b864;
+    border-color: #f8b864;
+}
+.campaign_thumbnail_overlay .donate_load_form_disabled {
+    display: inline-block;
+    color: #FFF;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 36px;
+    border-radius: 30px;
+    padding: 0 15px;
+    border: 2px solid;
+    text-transform: uppercase;
+}
